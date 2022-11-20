@@ -11,7 +11,7 @@ url: "https://MaoMaoCV.github.io/" # the base hostname & protocol for your site,
 #-------------------------------
 # About Section
 author-name:   Mao Mao
-author-avatar: 09.jpg
+author-avatar: 09.jpg # Avatar image which will be showing in the posts
 
 
 #-------------------------------
