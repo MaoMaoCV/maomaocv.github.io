@@ -5,7 +5,7 @@ title: Mao Mao CV Blog
 description: Galada is an easy and simple theme for Jekyll. Dark colors, give it a special exquisite look. A careful approach to design and features make it an ideal solution for a personal blog. # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 # baseurl: "/galada"
-url: "https://maomaocv.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://MaoMaoCV.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
