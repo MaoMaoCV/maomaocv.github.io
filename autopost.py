@@ -5,8 +5,10 @@ import time
 import pytz
 
 # using datetime.now() to get current time
-current_time = datetime.datetime.now(pytz.timezone('Asia/Shanghai'))
-t = str(current_time)
+def get_time():
+    current_time = datetime.datetime.now(pytz.timezone('Asia/Shanghai'))
+    t = str(current_time)
+    return t
 
 def decapitalize(s, upper_rest = False):
     return ''.join([s[:1].lower(), (s[1:].upper() if upper_rest else s[1:])])
@@ -43,7 +45,7 @@ def post_name(time):
 
     # Post Content:
     content = ""
-    content += "---\nlayout: post\ntitle:  " + title
+    content += "---\nlayout: post\ntitle:  " + temp
     content += "\ndate:   " + time[:19]+ tz
     content += "\nimage:  " + image + "\ntags:   " + tags + "\n---\n"    # print(content)
     fp = open(path, 'w')
@@ -88,11 +90,11 @@ def recent_post(time):
     fp.write(content)
     fp.close()
 
-post_name(t)
+post_name(get_time())
 
-time.sleep(1)
+time.sleep(2)
 
-recent_post(t)
+recent_post(get_time())
 
 
 '''
