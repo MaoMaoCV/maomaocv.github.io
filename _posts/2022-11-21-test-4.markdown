@@ -1,7 +1,0 @@
----
-layout: post
-title:  test 4
-date:   2022-11-21 14:26:36+0800
-image:  05.jpg
-tags:   Life
----

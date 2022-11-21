@@ -40,7 +40,7 @@ def post_name(time):
     # print("markdown template:\n")
     print("---\nlayout: post\ntitle:  ", temp, "\ndate:   ", time[:19], tz)
     image = "05.jpg"
-    tags = "Life"
+    tags = "[Life]"
     print("image:  ", image, "\ntags:   ", tags, "\n---")
 
     # Post Content:
