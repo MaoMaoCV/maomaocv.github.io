@@ -44,17 +44,59 @@ def post_name(time):
     fp.write(content)
     fp.close()
 
+def recent_post(time):
+    temp = "recent updates"
+    # print(time)
+    date = time[:10]
+    # t_ = time[12:19]
+    # _t = t_.split(':')
+    tokens = temp.split()
+    title = date
+    for i in range(len(tokens)):
+        title += "-"
+        title += tokens[i]
+    # for i in range(len(_t)):
+    #     t += _t[i]
+    #     t += "-"
+    title += ".markdown"
+    path = '/Users/maomao/Documents/GitHub/maomaocv.github.io/_posts/'
+    path += title
+    # timezone
+    tz = "+0800" # Beijing time +0800
+    # print("auto-generated-title:\n")
+    print("\n\n")
+    print(title, "\n")
+    # print("markdown template:\n")
+    print("---\nlayout: post\ntitle:  ", temp, "\ndate:   ", time[:19], tz)
+    image = "01.jpg"
+    tags = "[Commonplace, Life]"
+    print("image:  ", image, "\ntags:   ", tags, "\n---")
+
+    # Post Content:
+    content = ""
+    content += "---\nlayout: post\ntitle:  " + "Recent Updates"
+    content += "\ndate:   " + time[:19]+ tz + "\nimage:  " + image + "\ntags:   " + tags + "\n---"
+    content += "Web Application + Researches"
+    fp = open(path, 'w')
+    fp.write(content)
+    fp.close()
 
 post_name(t)
-# print(post_name(t))
+recent_post(t)
 
 
 '''
 ---
 layout: post
-title:  The path to self-perfection
-date:   2018-08-23 16:03:30 +0800
-image:  05.jpg
-tags:   Life
+title:  Recent Updates
+date:   2022-11-21 00:05:00 +0800
+image:  01.jpg
+tags:   [Commonplace]
 ---
+
+Web Application
+
+Researches
+
+GRE
 '''
