@@ -190,7 +190,7 @@
   background: $black;
   .article-image-first {
     position: relative;
-    // display: flex;
+    display: flex;
     align-items: center;
     min-height: 450px;
     background-size: cover;
@@ -266,6 +266,7 @@
       }
     }
   }
+  display: flex;
   .article-box {
     padding-bottom: 20px;
     border-bottom: 2px solid $border-color;
