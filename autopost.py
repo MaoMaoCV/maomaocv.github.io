@@ -1,9 +1,10 @@
 import datetime
 import os
+import time
 # for timezone()
 import pytz
 
-# using now() to get current time
+# using datetime.now() to get current time
 current_time = datetime.datetime.now(pytz.timezone('Asia/Shanghai'))
 t = str(current_time)
 
@@ -42,7 +43,7 @@ def post_name(time):
 
     # Post Content:
     content = ""
-    content += "---\nlayout: post\ntitle:  " + "Recent Updates"
+    content += "---\nlayout: post\ntitle:  " + title
     content += "\ndate:   " + time[:19]+ tz
     content += "\nimage:  " + image + "\ntags:   " + tags + "\n---\n"    # print(content)
     fp = open(path, 'w')
@@ -88,6 +89,9 @@ def recent_post(time):
     fp.close()
 
 post_name(t)
+
+time.sleep(1)
+
 recent_post(t)
 
 
