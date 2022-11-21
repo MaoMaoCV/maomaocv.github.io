@@ -266,7 +266,6 @@
       }
     }
   }
-  display: flex;
   .article-box {
     padding-bottom: 20px;
     border-bottom: 2px solid $border-color;
@@ -313,6 +312,7 @@
       opacity: 0;
     }
   }
+  display: flex;
   .article-content {
     .article-info {
       display: flex;
