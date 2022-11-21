@@ -6,6 +6,6 @@ image:  02.jpg
 tags:   Cities
 ---
 
-![]({{site.baseurl}}/img/nyc.png)
+![]({{site.baseurl}}/img/nyc.jpg)
 
 ![]({{site.baseurl}}/img/04.jpg)

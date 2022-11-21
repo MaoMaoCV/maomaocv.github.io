@@ -92,7 +92,7 @@ def recent_post(time):
 
 post_name(get_time())
 
-time.sleep(2)
+time.sleep(0.5)
 
 recent_post(get_time())
 
