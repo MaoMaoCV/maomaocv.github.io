@@ -2,7 +2,7 @@
 layout: post
 title:  Temp Album
 date:   2022-11-21 19:53:30+0800
-image:  0020.png
+image:  0020.jpg
 tags:   Life
 ---
 
