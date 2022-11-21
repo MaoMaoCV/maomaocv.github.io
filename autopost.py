@@ -7,13 +7,18 @@ import pytz
 current_time = datetime.datetime.now(pytz.timezone('Asia/Shanghai'))
 t = str(current_time)
 
+def decapitalize(s, upper_rest = False):
+    return ''.join([s[:1].lower(), (s[1:].upper() if upper_rest else s[1:])])
+
 def post_name(time):
+    # Input Title
     temp = input("Please enter the title of the post: ")
+    de_temp = decapitalize(temp)
     # print(time)
     date = time[:10]
     # t_ = time[12:19]
     # _t = t_.split(':')
-    tokens = temp.split()
+    tokens = de_temp.split()
     title = date
     for i in range(len(tokens)):
         title += "-"
@@ -37,9 +42,9 @@ def post_name(time):
 
     # Post Content:
     content = ""
-    content += "---\nlayout: post\ntitle:  " + temp
-    content += "\ndate:   " + time[:19]+ tz + "\nimage:  " + image + "\ntags:   " + tags + "\n---"
-    # print(content)
+    content += "---\nlayout: post\ntitle:  " + "Recent Updates"
+    content += "\ndate:   " + time[:19]+ tz
+    content += "\nimage:  " + image + "\ntags:   " + tags + "\n---\n"    # print(content)
     fp = open(path, 'w')
     fp.write(content)
     fp.close()
@@ -75,7 +80,8 @@ def recent_post(time):
     # Post Content:
     content = ""
     content += "---\nlayout: post\ntitle:  " + "Recent Updates"
-    content += "\ndate:   " + time[:19]+ tz + "\nimage:  " + image + "\ntags:   " + tags + "\n---"
+    content += "\ndate:   " + time[:19]+ tz
+    content += "\nimage:  " + image + "\ntags:   " + tags + "\n---\n"
     content += "Web Application + Researches"
     fp = open(path, 'w')
     fp.write(content)
