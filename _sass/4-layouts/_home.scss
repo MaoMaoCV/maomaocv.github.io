@@ -190,7 +190,7 @@
   background: $black;
   .article-image-first {
     position: relative;
-    display: flex;
+    // display: flex;
     align-items: center;
     min-height: 450px;
     background-size: cover;
@@ -250,7 +250,8 @@
 }
 
 .article {
-  /*display: flex;*/
+  // display: flex;
+  display: flex;
   margin-bottom: 25px;
   &:hover {
     .article-image {
