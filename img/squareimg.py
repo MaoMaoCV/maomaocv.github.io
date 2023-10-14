@@ -1,6 +1,7 @@
 from PIL import Image
-name = "2023-10-05"
-# Load the uploaded image
+
+name = "2023-10-03"
+
 img = Image.open(f"/Users/maomao/Documents/GitHub/maomaocv.github.io/img/{name}.jpg")
 
 # Determine the longer side
