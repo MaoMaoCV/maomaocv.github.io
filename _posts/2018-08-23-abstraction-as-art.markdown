@@ -2,8 +2,8 @@
 layout: post
 title:  Flowers
 date:   2023-05-11 16:03:50 +0300
-image:  2023-05-flower-2642.jpg
-tags:   Art, Photography
+image:  2023-05-flower-2694.jpg
+tags:   Photography
 ---
 GFX 50s
 ![]({{site.baseurl}}/img/2023-05-flower-2642.jpg)
