@@ -6,9 +6,13 @@ image:  2023-05-flower-2694.jpg
 tags:   Photography
 ---
 🌸 | 📸: @maomao
+
 Taken: May, 2023
+
 Camera: FUJIFILM GFX 50s
+
 Lens: GF 110mm f/2.0
+
 ![]({{site.baseurl}}/img/2023-05-flower-2642.jpg)
 ![]({{site.baseurl}}/img/2023-05-flower-2656.jpg)
 ![]({{site.baseurl}}/img/2023-05-flower-2681.jpg)

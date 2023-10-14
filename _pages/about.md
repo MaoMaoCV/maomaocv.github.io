@@ -5,7 +5,7 @@ image: 08.jpg
 permalink: /about/
 ---
 
-My name is Mao Mao. about.md is not completed yet.
+Mao Mao. about.md is not completed yet.
 
 #### Boston, United States
 BU MSAI Program

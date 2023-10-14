@@ -17,24 +17,17 @@ def post_name(time):
     # Input Title
     temp = input("Please enter the title of the post: ")
     de_temp = decapitalize(temp)
-    # print(time)
     date = time[:10]
-    # t_ = time[12:19]
-    # _t = t_.split(':')
     tokens = de_temp.split()
     title = date
     for i in range(len(tokens)):
         title += "-"
         title += tokens[i]
-    # for i in range(len(_t)):
-    #     t += _t[i]
-    #     t += "-"
     title += ".markdown"
     path = '/Users/maomao/Documents/GitHub/maomaocv.github.io/_posts/'
     path += title
     # timezone
     tz = "+0800" # Beijing time +0800
-    # print("auto-generated-title:\n")
     print("\n\n")
     print(title, "\n")
     # print("markdown template:\n")
@@ -53,31 +46,26 @@ def post_name(time):
     fp.close()
 
 def recent_post(time):
+    tags = input("Enter tags in the format [tag1, tag2]:\n")
+    text = input("Enter text:\n")
     temp = "recent updates"
-    # print(time)
     date = time[:10]
-    # t_ = time[12:19]
-    # _t = t_.split(':')
     tokens = temp.split()
     title = date
     for i in range(len(tokens)):
         title += "-"
         title += tokens[i]
-    # for i in range(len(_t)):
-    #     t += _t[i]
-    #     t += "-"
     title += ".markdown"
     path = '/Users/maomao/Documents/GitHub/maomaocv.github.io/_posts/'
     path += title
     # timezone
     tz = "+0800" # Beijing time +0800
-    # print("auto-generated-title:\n")
     print("\n\n")
     print(title, "\n")
     # print("markdown template:\n")
     print("---\nlayout: post\ntitle:  ", temp, "\ndate:   ", time[:19], tz)
     image = "01.jpg"
-    tags = "[Commonplace, Life]"
+    # tags = "[Commonplace, Life]"
     print("image:  ", image, "\ntags:   ", tags, "\n---")
 
     # Post Content:
@@ -85,17 +73,18 @@ def recent_post(time):
     content += "---\nlayout: post\ntitle:  " + "Recent Updates"
     content += "\ndate:   " + time[:19]+ tz
     content += "\nimage:  " + image + "\ntags:   " + tags + "\n---\n"
-    content += "Web Application + Researches"
+    # content += "Web Application + Researches"
+    content += text
     fp = open(path, 'w')
     fp.write(content)
     fp.close()
 
-post_name(get_time())
+
 
 time.sleep(0.5)
 
 recent_post(get_time())
-
+# post_name(get_time())
 
 '''
 ---
