@@ -1,11 +1,14 @@
 ---
 layout: post
-title:  Flowers
+title:  Flower Album
 date:   2023-05-11 16:03:50 +0300
 image:  2023-05-flower-2694.jpg
 tags:   Photography
 ---
-GFX 50s
+🌸 | 📸: @maomao
+Taken: May, 2023
+Camera: FUJIFILM GFX 50s
+Lens: GF 110mm f/2.0
 ![]({{site.baseurl}}/img/2023-05-flower-2642.jpg)
 ![]({{site.baseurl}}/img/2023-05-flower-2656.jpg)
 ![]({{site.baseurl}}/img/2023-05-flower-2681.jpg)
