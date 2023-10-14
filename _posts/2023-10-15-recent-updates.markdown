@@ -12,9 +12,12 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 <details>
 <summary><span class="tag">AI Video</span></summary>
 
+<br>
+
 **Script + Video**
-[Supercreator.ai](https://www.supercreator.ai) 
-[Demo](https://app.supercreator.ai/home) #Demo #APP #Script #Video #!Desktop
+[Supercreator.ai](https://www.supercreator.ai)
+
+[Demo](https://app.supercreator.ai/home) #Demo #iOS #APP #Script #Video #!Desktop
 
 **Personalized Video**
 [tavus](https://www.tavus.io) #RequestDemo #API 
@@ -26,8 +29,11 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 <details>
 <summary><span class="tag">AI Image</span></summary>
 
+<br>
+
 **Dream by WOMBO**
-[Dreamer](https://dream.ai) 
+[Dreamer](https://dream.ai)
+
 [Demo](https://dream.ai/create) #Demo #APP #Free #Plan
 
 **Wallpaper, Poster**
@@ -43,6 +49,8 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 <details>
 <summary><span class="tag">Text</span></summary>
 
+<br>
+
 [syllaby]()
 [Notion]()
 [ChatGPT]()
@@ -51,12 +59,16 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 <details>
 <summary><span class="tag">Research</span></summary>
 
+<br>
+
 [Bearly]()
 [scholarcy]()
 </details>
 
 <details>
 <summary><span class="tag">Design</span></summary>
+
+<br>
 
 [Looka]()
 [Galileo]()
@@ -66,12 +78,16 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 <details>
 <summary><span class="tag">Presentation</span></summary>
 
+<br>
+
 [SlidesAI]()
 [MURF.AI]()
 </details>
 
 <details>
 <summary><span class="tag">Language</span></summary>
+
+<br>
 
 [Whisper Memos]()
 [sound.ful]()
@@ -80,6 +96,8 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
 <details>
 <summary><span class="tag">Efficiency</span></summary>
+
+<br>
 
 [Nanonets]()
 [lumen5]()
