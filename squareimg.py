@@ -1,6 +1,6 @@
 from PIL import Image
 
-name = "2019-06-14"
+name = "2023-09-13"
 
 img = Image.open(f"/Users/maomao/Documents/GitHub/maomaocv.github.io/img/{name}.jpg")
 
