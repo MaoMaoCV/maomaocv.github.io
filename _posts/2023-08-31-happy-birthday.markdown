@@ -8,4 +8,4 @@ tags:   [XIAOKE]
 祝小可生日快乐！🎂
 
 
-[]({{site.baseurl}}/img/04.jpg)
+![]({{site.baseurl}}/img/04.jpg)
