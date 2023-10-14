@@ -9,24 +9,33 @@ Updating a list of AI tools...
 
 Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection)
 
-<span class="tag">Video</span>
+<span class="tag">AI Video</span>
 
 **Script + Video**
-[Supercreator.ai](https://www.supercreator.ai) [Demo](https://app.supercreator.ai/home) #Demo #APP #Browswer #Script #Video #!Desktop
+[Supercreator.ai](https://www.supercreator.ai) 
+[Demo](https://app.supercreator.ai/home) #Demo #APP #Script #Video #!Desktop
 
 **Personalized Video**
-[tavus](https://www.tavus.io) #!Demo#RequestDemo #API 
+[tavus](https://www.tavus.io) #RequestDemo #API 
 
 **Personalized Video**
-[Windsor](https://www.windsor.io) #!Demo#RequestDemo
+[Windsor](https://www.windsor.io) #RequestDemo
 
-<span class="tag">Image</span>
+<span class="tag">AI Image</span>
 
-[STOCKIMG.AI](https://stockimg.ai)
+**Dream by WOMBO**
+[Dreamer](https://dream.ai) 
+[Demo](https://dream.ai/create) #Demo #APP #Free #Plan
 
-[Midjourney](https://www.midjourney.com)
+**Wallpaper, Poster**
+[STOCKIMG.AI](https://stockimg.ai) #Demo #FreeTrail #Plan $19/month, $29/month
 
-[Dreamer](https://dreamervr.com)
+**Stable Diffusion UI**
+[Github](https://github.com/AUTOMATIC1111/stable-diffusion-webui/)
+[Apple Sillicon Installation](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon)
+
+[Midjourney](https://www.midjourney.com) #Discord #Plan
+
 
 <span class="tag">Text</span>
 
