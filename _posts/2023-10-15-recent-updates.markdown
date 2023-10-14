@@ -9,7 +9,8 @@ Updating a list of AI tools...
 
 Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection)
 
-<span class="tag">AI Video</span>
+<details>
+<summary><span class="tag">AI Video</span></summary>
 
 **Script + Video**
 [Supercreator.ai](https://www.supercreator.ai) 
@@ -20,8 +21,10 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
 **Personalized Video**
 [Windsor](https://www.windsor.io) #RequestDemo
+</details>
 
-<span class="tag">AI Image</span>
+<details>
+<summary><span class="tag">AI Image</span></summary>
 
 **Dream by WOMBO**
 [Dreamer](https://dream.ai) 
@@ -35,38 +38,50 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 [Apple Sillicon Installation](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon)
 
 [Midjourney](https://www.midjourney.com) #Discord #Plan
+</details>
 
-
-<span class="tag">Text</span>
+<details>
+<summary><span class="tag">Text</span></summary>
 
 [syllaby]()
 [Notion]()
 [ChatGPT]()
+</details>
 
-<span class="tag">Research</span>
+<details>
+<summary><span class="tag">Research</span></summary>
 
 [Bearly]()
 [scholarcy]()
+</details>
 
-<span class="tag">Design</span>
+<details>
+<summary><span class="tag">Design</span></summary>
 
 [Looka]()
 [Galileo]()
 [uizard]()
+</details>
 
-<span class="tag">Presentation</span>
+<details>
+<summary><span class="tag">Presentation</span></summary>
 
 [SlidesAI]()
 [MURF.AI]()
+</details>
 
-<span class="tag">Language</span>
+<details>
+<summary><span class="tag">Language</span></summary>
 
 [Whisper Memos]()
 [sound.ful]()
 [steno]()
+</details>
 
-<span class="tag">Efficency</span>
+<details>
+<summary><span class="tag">Efficiency</span></summary>
 
 [Nanonets]()
 [lumen5]()
 [jenni]()
+</details>
