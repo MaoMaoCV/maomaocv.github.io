@@ -1,0 +1,9 @@
+---
+layout: post
+title:  HYPOTHESIS SEARCH - INDUCTIVE REASONING WITH LANGUAGE MODELS
+date:   2023-09-11 16:03:30 +0800
+image:  2023-09-11s.jpg
+tags:   [LLM, AI, arXiv]
+---
+
+arXiv V1: [HYPOTHESIS SEARCH: INDUCTIVE REASONING WITH LANGUAGE MODELS](https://arxiv.org/pdf/2309.05660v1.pdf)
