@@ -9,7 +9,12 @@ Updating a list of AI tools...
 
 Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection)
 
-<details>
+<details open>
+  <summary>Hello</summary>
+  World!
+</details>
+
+<details open>
 <summary>AI Video</summary>
 
 **Script + Video**  
