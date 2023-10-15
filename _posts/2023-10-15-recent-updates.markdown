@@ -9,11 +9,6 @@ Updating a list of AI tools...
 
 Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection)
 
-<details open>
-  <summary>Hello</summary>
-  World!
-</details>
-
 <details>
   <summary>AI Video</summary>
   
@@ -50,11 +45,15 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 <details>
   <summary>Text</summary>
 
+  [ChatGPT]()
+
+  [Copy.ai](https://app.copy.ai/)
+
+  [Demo](https://app.copy.ai/projects/34884559?tool=chat&tab=results) #Demo #Free #Plan
+
   [syllaby]()
 
   [Notion]()
-
-  [ChatGPT]()
 </details>
 
 <details>
@@ -102,5 +101,3 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
   [jenni]()
 </details>
-
-
