@@ -20,6 +20,7 @@ Table of Contents
 *   [AI Presentation](#AI-Presentation)
 *   [AI Language](#AI-Language)
 *   [AI Efficiency](#AI-Efficiency)
+*   [ChatGPT Extensions](#ChatGPT-Extensions)
 
 
 Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection)
@@ -31,6 +32,9 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 **Script + Video**  
 [Supercreator.ai](https://www.supercreator.ai) - 
 [Demo](https://app.supercreator.ai/home) #Demo #iOS #APP #Script #Video #!Desktop  
+
+[Synthesia](https://www.synthesia.io) - 
+[Demo](https://www.synthesia.io/free-ai-video-demo#OptimizedForSharing_New) #RequestDemo #Clean
 
 **Personalized Video**  
 [tavus](https://www.tavus.io) #RequestDemo #API  
@@ -122,3 +126,7 @@ OUTDATED[Jukedeck]()
 [lumen5]()
 
 [jenni]()
+
+---
+
+### <a id="ChatGPT-Extensions"></a>ChatGPT Extensions
