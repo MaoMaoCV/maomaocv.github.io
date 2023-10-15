@@ -21,6 +21,7 @@ Table of Contents
 *   [AI Language](#AI-Language)
 *   [AI Efficiency](#AI-Efficiency)
 *   [ChatGPT Extensions](#ChatGPT-Extensions)
+*   [ChatGPT Prompts](#ChatGPT-Prompts)
 
 
 Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection)
@@ -130,3 +131,7 @@ OUTDATED[Jukedeck]()
 ---
 
 ### <a id="ChatGPT-Extensions"></a>ChatGPT Extensions
+
+---
+
+### <a id="ChatGPT-Prompts"></a>ChatGPT Prompts
