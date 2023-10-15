@@ -6,4 +6,4 @@ image:  05.jpg
 tags:   [BU, CS542, Machine Learning]
 ---
 
-https://www.overleaf.com/read/jbdqqxznpqgw
+[Common Task](https://www.overleaf.com/read/jbdqqxznpqgw)
