@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  2023TEMPLATE
-date:   2023 16:03:30 +0800
-image:  2023.jpg
-tags:   [AI, arXiv]
+title:  Neural Machine Translation
+date:   2016-05-19 16:03:30 +0800
+image:  2016-05-19s.jpg
+tags:   [Transformer, AI, arXiv]
 ---
 
-arXiv V1: [title](URL)
+arXiv V1: [Neural Machine Translation](https://arxiv.org/pdf/1409.0473.pdf#:~:text=Neural%20machine%20translation%20is%20a,to%20maximize%20the%20translation%20performance.)

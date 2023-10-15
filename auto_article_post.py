@@ -7,14 +7,11 @@ title_name = "Linear Transformers Are Secretly Fast Weight Programmers"
 URL = "https://arxiv.org/pdf/2102.11174.pdf"
 
 def rename_and_move(new_name):
-    # Define the source and destination directories
     src_dir = "/Users/maomao/Desktop"
     dest_dir = "/Users/maomao/Documents/GitHub/maomaocv.github.io/img"
-
-    # Get the list of all files in the source directory
+    
     files = [os.path.join(src_dir, f) for f in os.listdir(src_dir) if os.path.isfile(os.path.join(src_dir, f))]
 
-    # Find the most recently created file
     latest_file = max(files, key=os.path.getctime)
 
     # Rename and move the file
@@ -22,7 +19,6 @@ def rename_and_move(new_name):
     shutil.move(latest_file, new_file_path)
 
 def auto_post(date, title, markdown_name, img_name, URL):
-    title += ".markdown"
     path = '/Users/maomao/Documents/GitHub/maomaocv.github.io/_posts/'
     path += markdown_name
     # timezone
@@ -48,6 +44,7 @@ def make_title(title_string):
     user_input = title_string
     processed_string = user_input.lower().replace(" ", "-")
     title = ' '.join(word.capitalize() for word in user_input.split())
+    title += '.markdown'
     return processed_string, title
 
 img_name = f"{date}.jpg"
@@ -65,6 +62,4 @@ markdown, article_title = make_title(title_name)
 print("image saved as", date, "s.jpg")
 
 markdown_name = f"{date}-{markdown}"
-print(f"{date}-{markdown_name}")
-print(article_title)
 auto_post(date, article_title, markdown_name, img_name, URL)
