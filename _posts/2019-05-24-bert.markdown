@@ -1,0 +1,9 @@
+---
+layout: post
+title:  BERT
+date:   2019-05-24 16:03:30 +0800
+image:  2019-05-24s.jpg
+tags:   [Transformer, AI, Google, arXiv]
+---
+
+arXiv V1: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
