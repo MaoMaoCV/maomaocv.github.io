@@ -7,98 +7,112 @@ tags:   [AI tools, AI]
 ---
 Updating a list of AI tools...
 
+* * *
+
+Table of Contents
+-----------------
+*   [AI Video](#AI-Video)
+*   [AI Image](#AI-Image)
+*   [AI Text](#AI-Text)
+*   [AI Research](#AI-Research)
+*   [AI Design](#AI-Design)
+*   [AI Presentation](#AI-Presentation)
+*   [AI Language](#AI-Language)
+*   [AI Efficiency](#AI-Efficiency)
+
+
 Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection)
 
-<details>
-  <summary>AI Video</summary>
-  
-  **Script + Video**  
-  [Supercreator.ai](https://www.supercreator.ai) - 
-  [Demo](https://app.supercreator.ai/home) #Demo #iOS #APP #Script #Video #!Desktop  
+---
 
-  **Personalized Video**  
-  [tavus](https://www.tavus.io) #RequestDemo #API  
+### AI Video
 
-  **Personalized Video**  
-  [Windsor](https://www.windsor.io) #RequestDemo  
-</details>
+**Script + Video**  
+[Supercreator.ai](https://www.supercreator.ai) - 
+[Demo](https://app.supercreator.ai/home) #Demo #iOS #APP #Script #Video #!Desktop  
 
-<details>
-  <summary>AI Image</summary>
+**Personalized Video**  
+[tavus](https://www.tavus.io) #RequestDemo #API  
 
-  **Dream by WOMBO**  
-  [Dream](https://dream.ai) - 
-  [Demo](https://dream.ai/create) #Demo #APP #Free #Plan  
+**Personalized Video**  
+[Windsor](https://www.windsor.io) #RequestDemo  
 
-  [DreamStudio](https://beta.dreamstudio.ai/generate) - 
-  [Demo](https://beta.dreamstudio.ai/generate) #Demo #APP #Free #Plan  
+---
 
-  **Wallpaper, Poster**  
-  [STOCKIMG.AI](https://stockimg.ai) #Demo #FreeTrail #Plan $19/month, $29/month  
+### AI Image
 
-  **Stable Diffusion UI**  
-  [Github](https://github.com/AUTOMATIC1111/stable-diffusion-webui/)  
-  [Apple Sillicon Installation](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon)  
+**Dream by WOMBO**  
+[Dream](https://dream.ai) - 
+[Demo](https://dream.ai/create) #Demo #APP #Free #Plan  
 
-  [Midjourney](https://www.midjourney.com) #Discord #Plan  
-</details>
+[DreamStudio](https://beta.dreamstudio.ai/generate) - 
+[Demo](https://beta.dreamstudio.ai/generate) #Demo #APP #Free #Plan  
 
-<details>
-  <summary>AI Text</summary>
+**Wallpaper, Poster**  
+[STOCKIMG.AI](https://stockimg.ai) #Demo #FreeTrail #Plan $19/month, $29/month  
 
-  [ChatGPT]()
+**Stable Diffusion UI**  
+[Github](https://github.com/AUTOMATIC1111/stable-diffusion-webui/)  
+[Apple Sillicon Installation](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon)  
 
-  [Copy.ai](https://app.copy.ai/) - 
-  [Demo](https://app.copy.ai/projects/34884559?tool=chat&tab=results) #Demo #Free #Plan
+[Midjourney](https://www.midjourney.com) #Discord #Plan  
 
-  [syllaby]()
+---
 
-  [Notion]()
-</details>
+### AI Text
 
-<details>
-  <summary>AI Research</summary>
+[ChatGPT]()
 
-  [Bearly]()
+[Copy.ai](https://app.copy.ai/) - 
+[Demo](https://app.copy.ai/projects/34884559?tool=chat&tab=results) #Demo #Free #Plan
 
-  [scholarcy]()
-</details>
+[syllaby]()
 
-<details>
-  <summary>AI Design</summary>
+[Notion]()
 
-  [Looka](https://looka.com) - 
-  [Demo](https://looka.com/explore) #Demo #Free #Plan
+---
 
-  [Galileo]()
+### AI Research
 
-  [uizard]()
-</details>
+[Bearly]()
 
-<details>
-  <summary>AI Presentation</summary>
+[scholarcy]()
 
-  [SlidesAI]()
+---
 
-  [MURF.AI]()
-</details>
+### AI Design
 
-<details>
-  <summary>AI Language</summary>
+[Looka](https://looka.com) - 
+[Demo](https://looka.com/explore) #Demo #Free #Plan
 
-  [Whisper Memos]()
+[Galileo]()
 
-  [sound.ful]()
+[uizard]()
 
-  [steno]()
-</details>
+---
 
-<details>
-  <summary>AI fficiency</summary>
+### AI Presentation
 
-  [Nanonets]()
+[SlidesAI]()
 
-  [lumen5]()
+[MURF.AI]()
 
-  [jenni]()
-</details>
+---
+
+### AI Language
+
+[Whisper Memos]()
+
+[sound.ful]()
+
+[steno]()
+
+---
+
+### AI Efficiency
+
+[Nanonets]()
+
+[lumen5]()
+
+[jenni]()
