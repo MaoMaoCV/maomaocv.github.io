@@ -15,13 +15,28 @@ else:
 
 
 
+def find_latest_file(src_dir, allowed_extensions):
+    files = [os.path.join(src_dir, f) for f in os.listdir(src_dir) if os.path.isfile(os.path.join(src_dir, f))]
+    # Filter files by allowed extensions (e.g., png and jpg)
+    filtered_files = [f for f in files if f.lower().endswith(allowed_extensions)]
+
+    if not filtered_files:
+        return None
+
+    # Find the latest file among the filtered files
+    latest_file = max(filtered_files, key=os.path.getctime)
+    return latest_file
+
 def rename_and_move(new_name):
     src_dir = "/Users/maomao/Desktop"
     dest_dir = "/Users/maomao/Documents/GitHub/maomaocv.github.io/img"
-    
-    files = [os.path.join(src_dir, f) for f in os.listdir(src_dir) if os.path.isfile(os.path.join(src_dir, f))]
+    allowed_extensions = ('.png', '.jpg')
 
-    latest_file = max(files, key=os.path.getctime)
+    latest_file = find_latest_file(src_dir, allowed_extensions)
+
+    if latest_file is None:
+        print("No files with allowed extensions found in the source directory.")
+        return
 
     # Rename and move the file
     new_file_path = os.path.join(dest_dir, new_name)
@@ -36,8 +51,9 @@ def auto_post(date, post_title, article_title, markdown_name, img_name, URL):
     print(article_title, "\n")
     # print("markdown template:\n")
     print("---\nlayout: post\ntitle:  ", post_title, "\ndate:   ", date, timezone)
-    tags = "[AI, arXiv]"
+    tags = "[Transformer, AI, arXiv]"
     print("image:  ", img_name, "\ntags:   ", tags, "\n---")
+    print(f"arXiv V1: [{article_title}]({URL})")
 
     # Post Content:
     content = ""
@@ -49,14 +65,30 @@ def auto_post(date, post_title, article_title, markdown_name, img_name, URL):
     fp.write(content)
     fp.close()
 
+def capitalize_words(title):
+    stop_words = ["the", "and", "in", "of", "to", "a", "an", "for", "on", "with", "as", "by", "at", "but", "or", "nor", "so", "yet"]
+    words = title.split()
+    processed_words = []
+    for word in words:
+        if word.lower() in stop_words:
+            processed_words.append(word.lower())
+        else:
+            processed_words.append(word.capitalize())
+
+    processed_string = ' '.join(processed_words)
+    return processed_string
+
 def make_title(title_string):
     user_input = title_string
-    processed_string = user_input.lower().replace(" ", "-")
-    title = ' '.join(word.capitalize() for word in user_input.split())
-    post_title = title.lower().replace(":", " - ")
-    article_title = title
-    processed_string += '.markdown'
-    return processed_string, post_title, article_title
+    title = capitalize_words(title_string)
+    post_title = title.replace(":", " -")
+
+    markdown_name = user_input.lower().replace(" ", "-")
+    while(markdown_name[-1] == '-'):
+        markdown_name = markdown_name[:-1]
+    markdown_name = markdown_name.replace(":", "")
+    markdown_name += '.markdown'
+    return markdown_name, post_title
 
 img_name = f"{date}.jpg"
 rename_and_move(img_name)
@@ -69,8 +101,8 @@ x_offset = (canvas.width - img.width) // 2
 y_offset = (canvas.height - img.height) // 2
 canvas.paste(img, (x_offset, y_offset))
 canvas.save(f"/Users/maomao/Documents/GitHub/maomaocv.github.io/img/{date}s.jpg")
-markdown, post_title, article_title = make_title(title_name)
+markdown, post_title = make_title(title_name)
 print("image saved as", date, "s.jpg")
-
 markdown_name = f"{date}-{markdown}"
-auto_post(date, post_title, article_title, markdown_name, img_name, URL)
+print(markdown_name)
+auto_post(date, post_title, title_name, markdown_name, img_name, URL)
