@@ -25,7 +25,7 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
 ---
 
-### AI Video
+### <a id="AI-Video"></a>AI Video
 
 **Script + Video**  
 [Supercreator.ai](https://www.supercreator.ai) - 
@@ -39,14 +39,11 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
 ---
 
-### AI Image
+### <a id="AI-Image"></a>AI Image
 
 **Dream by WOMBO**  
 [Dream](https://dream.ai) - 
 [Demo](https://dream.ai/create) #Demo #APP #Free #Plan  
-
-[DreamStudio](https://beta.dreamstudio.ai/generate) - 
-[Demo](https://beta.dreamstudio.ai/generate) #Demo #APP #Free #Plan  
 
 **Wallpaper, Poster**  
 [STOCKIMG.AI](https://stockimg.ai) #Demo #FreeTrail #Plan $19/month, $29/month  
@@ -59,7 +56,7 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
 ---
 
-### AI Text
+### <a id="AI-Text"></a>AI Text
 
 [ChatGPT]()
 
@@ -72,7 +69,7 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
 ---
 
-### AI Research
+### <a id="AI-Research"></a>AI Research
 
 [Bearly]()
 
@@ -80,7 +77,7 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
 ---
 
-### AI Design
+### <a id="AI-Design"></a>AI Design
 
 [Looka](https://looka.com) - 
 [Demo](https://looka.com/explore) #Demo #Free #Plan
@@ -91,7 +88,7 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
 ---
 
-### AI Presentation
+### <a id="AI-Presentation"></a>AI Presentation
 
 [SlidesAI]()
 
@@ -99,7 +96,7 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
 ---
 
-### AI Language
+### <a id="AI-Language"></a>AI Language
 
 [Whisper Memos]()
 
@@ -109,7 +106,7 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
 ---
 
-### AI Efficiency
+### <a id="AI-Efficiency"></a>AI Efficiency
 
 [Nanonets]()
 
