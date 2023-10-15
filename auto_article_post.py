@@ -2,9 +2,18 @@ from PIL import Image
 import os
 import shutil
 
-date = "2021-06-09"
-title_name = "Linear Transformers Are Secretly Fast Weight Programmers"
-URL = "https://arxiv.org/pdf/2102.11174.pdf"
+INPUT_MODE = True
+
+if(INPUT_MODE):
+    date = input("Enter date of the article:\n")
+    title_name = input("Enter name of the article:\n")
+    URL = input("Enter URL of the article:\n")
+else:
+    date = "2021-06-09"
+    title_name = "Linear Transformers Are Secretly Fast Weight Programmers"
+    URL = "https://arxiv.org/pdf/2102.11174.pdf"
+
+
 
 def rename_and_move(new_name):
     src_dir = "/Users/maomao/Desktop"
@@ -18,24 +27,24 @@ def rename_and_move(new_name):
     new_file_path = os.path.join(dest_dir, new_name)
     shutil.move(latest_file, new_file_path)
 
-def auto_post(date, title, markdown_name, img_name, URL):
+def auto_post(date, post_title, article_title, markdown_name, img_name, URL):
     path = '/Users/maomao/Documents/GitHub/maomaocv.github.io/_posts/'
     path += markdown_name
     # timezone
     timezone = " 16:03:30 +0800" # Beijing time +0800
     print("\n\n")
-    print(title, "\n")
+    print(article_title, "\n")
     # print("markdown template:\n")
-    print("---\nlayout: post\ntitle:  ", title, "\ndate:   ", date, timezone)
+    print("---\nlayout: post\ntitle:  ", post_title, "\ndate:   ", date, timezone)
     tags = "[AI, arXiv]"
     print("image:  ", img_name, "\ntags:   ", tags, "\n---")
 
     # Post Content:
     content = ""
-    content += "---\nlayout: post\ntitle:  " + title
+    content += "---\nlayout: post\ntitle:  " + post_title
     content += "\ndate:   " + date + timezone
     content += "\nimage:  " + img_name + "\ntags:   " + tags + "\n---\n"
-    content += f"arXiv V1: [{title}]({URL})"
+    content += f"arXiv V1: [{article_title}]({URL})"
     fp = open(path, 'w')
     fp.write(content)
     fp.close()
@@ -44,8 +53,10 @@ def make_title(title_string):
     user_input = title_string
     processed_string = user_input.lower().replace(" ", "-")
     title = ' '.join(word.capitalize() for word in user_input.split())
-    title += '.markdown'
-    return processed_string, title
+    post_title = title.lower().replace(":", " - ")
+    article_title = title
+    processed_string += '.markdown'
+    return processed_string, post_title, article_title
 
 img_name = f"{date}.jpg"
 rename_and_move(img_name)
@@ -58,8 +69,8 @@ x_offset = (canvas.width - img.width) // 2
 y_offset = (canvas.height - img.height) // 2
 canvas.paste(img, (x_offset, y_offset))
 canvas.save(f"/Users/maomao/Documents/GitHub/maomaocv.github.io/img/{date}s.jpg")
-markdown, article_title = make_title(title_name)
+markdown, post_title, article_title = make_title(title_name)
 print("image saved as", date, "s.jpg")
 
 markdown_name = f"{date}-{markdown}"
-auto_post(date, article_title, markdown_name, img_name, URL)
+auto_post(date, post_title, article_title, markdown_name, img_name, URL)

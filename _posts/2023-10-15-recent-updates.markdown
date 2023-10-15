@@ -13,7 +13,8 @@ Table of Contents
 -----------------
 *   [AI Video](#AI-Video)
 *   [AI Image](#AI-Image)
-*   [AI Text](#AI-Text)
+*   [AI Text](#AI-Text) + Chatbot
+*   [AI Audio](#AI-Audio)
 *   [AI Research](#AI-Research)
 *   [AI Design](#AI-Design)
 *   [AI Presentation](#AI-Presentation)
@@ -49,7 +50,7 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 [STOCKIMG.AI](https://stockimg.ai) #Demo #FreeTrail #Plan $19/month, $29/month  
 
 **Stable Diffusion UI**  
-[Github](https://github.com/AUTOMATIC1111/stable-diffusion-webui/)  
+[Github](https://github.com/AUTOMATIC1111/stable-diffusion-webui/) - 
 [Apple Sillicon Installation](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon)  
 
 [Midjourney](https://www.midjourney.com) #Discord #Plan  
@@ -63,10 +64,18 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 [Copy.ai](https://app.copy.ai/) - 
 [Demo](https://app.copy.ai/projects/34884559?tool=chat&tab=results) #Demo #Free #Plan
 
+[Character.ai](https://beta.character.ai) - 
+[Demo](https://beta.character.ai) #Demo #Free #Plan #Chatbot
+
 [syllaby]()
 
 [Notion]()
 
+---
+
+### <a id="AI-Audio"></a>AI Audio Generation
+
+OUTDATED[Jukedeck]()
 ---
 
 ### <a id="AI-Research"></a>AI Research
