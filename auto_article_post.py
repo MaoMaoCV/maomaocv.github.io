@@ -59,7 +59,7 @@ def auto_post(date, post_title, article_title, markdown_name, img_name, URL):
     content = ""
     content += "---\nlayout: post\ntitle:  " + post_title
     content += "\ndate:   " + date + timezone
-    content += "\nimage:  " + img_name + "\ntags:   " + tags + "\n---\n"
+    content += "\nimage:  " + img_name + "\ntags:   " + tags + "\n---\n\n"
     content += f"arXiv V1: [{article_title}]({URL})"
     fp = open(path, 'w')
     fp.write(content)
