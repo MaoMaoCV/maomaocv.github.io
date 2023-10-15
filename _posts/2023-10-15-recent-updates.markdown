@@ -10,8 +10,7 @@ Updating a list of AI tools...
 Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection)
 
 <details>
-<summary><span class="tag">AI Video</span></summary>
-
+<summary>AI Video</summary>
 
 **Script + Video**  
 [Supercreator.ai](https://www.supercreator.ai)  
@@ -26,8 +25,7 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 </details>
 
 <details>
-<summary><span class="tag">AI Image</span></summary>
-
+<summary>AI Image</summary>
 
 **Dream by WOMBO**  
 [Dreamer](https://dream.ai)  
@@ -44,10 +42,8 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 [Midjourney](https://www.midjourney.com) #Discord #Plan  
 </details>
 
-
 <details>
-<summary><span class="tag">Text</span></summary>
-
+<summary>Text</summary>
 
 [syllaby]()
 
@@ -58,44 +54,53 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 </details>
 
 <details>
-<summary><span class="tag">Research</span></summary>
-
+<summary>Research</summary>
 
 [Bearly]()
+
 [scholarcy]()
+
 </details>
 
 <details>
-<summary><span class="tag">Design</span></summary>
-
+<summary>Design</summary>
 
 [Looka]()
+
 [Galileo]()
+
 [uizard]()
+
 </details>
 
 <details>
-<summary><span class="tag">Presentation</span></summary>
-
+<summary>Presentation</summary>
 
 [SlidesAI]()
+
 [MURF.AI]()
+
 </details>
 
 <details>
-<summary><span class="tag">Language</span></summary>
-
+<summary>Language</summary>
 
 [Whisper Memos]()
+
 [sound.ful]()
+
 [steno]()
+
 </details>
 
 <details>
-<summary><span class="tag">Efficiency</span></summary>
-
+<summary>Efficiency</summary>
 
 [Nanonets]()
+
 [lumen5]()
+
 [jenni]()
+
 </details>
+
