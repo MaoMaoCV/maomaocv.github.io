@@ -13,8 +13,7 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
   <summary>AI Video</summary>
   
   **Script + Video**  
-  [Supercreator.ai](https://www.supercreator.ai)  
-
+  [Supercreator.ai](https://www.supercreator.ai) - 
   [Demo](https://app.supercreator.ai/home) #Demo #iOS #APP #Script #Video #!Desktop  
 
   **Personalized Video**  
@@ -28,12 +27,10 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
   <summary>AI Image</summary>
 
   **Dream by WOMBO**  
-  [Dream](https://dream.ai)  
-
+  [Dream](https://dream.ai) - 
   [Demo](https://dream.ai/create) #Demo #APP #Free #Plan  
 
-  [DreamStudio](https://beta.dreamstudio.ai/generate)
-
+  [DreamStudio](https://beta.dreamstudio.ai/generate) - 
   [Demo](https://beta.dreamstudio.ai/generate) #Demo #APP #Free #Plan  
 
   **Wallpaper, Poster**  
@@ -51,8 +48,7 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
   [ChatGPT]()
 
-  [Copy.ai](https://app.copy.ai/)
-
+  [Copy.ai](https://app.copy.ai/) - 
   [Demo](https://app.copy.ai/projects/34884559?tool=chat&tab=results) #Demo #Free #Plan
 
   [syllaby]()
@@ -71,8 +67,7 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 <details>
   <summary>AI Design</summary>
 
-  [Looka](https://looka.com)
-
+  [Looka](https://looka.com) - 
   [Demo](https://looka.com/explore) #Demo #Free #Plan
 
   [Galileo]()
