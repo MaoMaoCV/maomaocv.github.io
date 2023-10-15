@@ -18,7 +18,7 @@ author-avatar: 09.jpg # Avatar image which will be showing in the posts
 # Contact links
 facebook:  https://facebook.com/ # Add your Facebook handle
 twitter:   https://twitter.com/ # Add your Facebook handle
-instagram: https://www.instagram.com/ # Add your Facebook handle
+instagram: https://www.instagram.com/mao_mao_mao_mao/ # Add your Facebook handle
 pinterest: https://www.pinterest.com/ # Add your Facebook handle
 
 
@@ -52,7 +52,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 7
+paginate: 9
 paginate_path: "/page/:num"
 
 include:
