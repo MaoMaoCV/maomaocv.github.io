@@ -14,98 +14,93 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
   World!
 </details>
 
-<details open>
-<summary>AI Video</summary>
+<details>
+  <summary>AI Video</summary>
+  
+  **Script + Video**  
+  [Supercreator.ai](https://www.supercreator.ai)  
 
-**Script + Video**  
-[Supercreator.ai](https://www.supercreator.ai)  
+  [Demo](https://app.supercreator.ai/home) #Demo #iOS #APP #Script #Video #!Desktop  
 
-[Demo](https://app.supercreator.ai/home) #Demo #iOS #APP #Script #Video #!Desktop  
+  **Personalized Video**  
+  [tavus](https://www.tavus.io) #RequestDemo #API  
 
-**Personalized Video**  
-[tavus](https://www.tavus.io) #RequestDemo #API  
-
-**Personalized Video**  
-[Windsor](https://www.windsor.io) #RequestDemo  
+  **Personalized Video**  
+  [Windsor](https://www.windsor.io) #RequestDemo  
 </details>
 
 <details>
-<summary>AI Image</summary>
+  <summary>AI Image</summary>
 
-**Dream by WOMBO**  
-[Dreamer](https://dream.ai)  
+  **Dream by WOMBO**  
+  [Dreamer](https://dream.ai)  
 
-[Demo](https://dream.ai/create) #Demo #APP #Free #Plan  
+  [Demo](https://dream.ai/create) #Demo #APP #Free #Plan  
 
-**Wallpaper, Poster**  
-[STOCKIMG.AI](https://stockimg.ai) #Demo #FreeTrail #Plan $19/month, $29/month  
+  **Wallpaper, Poster**  
+  [STOCKIMG.AI](https://stockimg.ai) #Demo #FreeTrail #Plan $19/month, $29/month  
 
-**Stable Diffusion UI**  
-[Github](https://github.com/AUTOMATIC1111/stable-diffusion-webui/)  
-[Apple Sillicon Installation](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon)  
+  **Stable Diffusion UI**  
+  [Github](https://github.com/AUTOMATIC1111/stable-diffusion-webui/)  
+  [Apple Sillicon Installation](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon)  
 
-[Midjourney](https://www.midjourney.com) #Discord #Plan  
+  [Midjourney](https://www.midjourney.com) #Discord #Plan  
 </details>
 
 <details>
-<summary>Text</summary>
+  <summary>Text</summary>
 
-[syllaby]()
+  [syllaby]()
 
-[Notion]()
+  [Notion]()
 
-[ChatGPT]()
-
+  [ChatGPT]()
 </details>
 
 <details>
-<summary>Research</summary>
+  <summary>Research</summary>
 
-[Bearly]()
+  [Bearly]()
 
-[scholarcy]()
-
+  [scholarcy]()
 </details>
 
 <details>
-<summary>Design</summary>
+  <summary>Design</summary>
 
-[Looka]()
+  [Looka]()
 
-[Galileo]()
+  [Galileo]()
 
-[uizard]()
-
+  [uizard]()
 </details>
 
 <details>
-<summary>Presentation</summary>
+  <summary>Presentation</summary>
 
-[SlidesAI]()
+  [SlidesAI]()
 
-[MURF.AI]()
-
+  [MURF.AI]()
 </details>
 
 <details>
-<summary>Language</summary>
+  <summary>Language</summary>
 
-[Whisper Memos]()
+  [Whisper Memos]()
 
-[sound.ful]()
+  [sound.ful]()
 
-[steno]()
-
+  [steno]()
 </details>
 
 <details>
-<summary>Efficiency</summary>
+  <summary>Efficiency</summary>
 
-[Nanonets]()
+  [Nanonets]()
 
-[lumen5]()
+  [lumen5]()
 
-[jenni]()
-
+  [jenni]()
 </details>
+
 
