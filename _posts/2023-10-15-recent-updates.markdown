@@ -95,16 +95,16 @@ $19/month, $29/month
 
 ### <a id="AI-Text"></a>AI Text
 
-[ChatGPT]() #Chatbot
+[ChatGPT]() `#Chatbot`
 
 [Copy.ai](https://app.copy.ai/) - 
-[Demo](https://app.copy.ai/projects/34884559?tool=chat&tab=results) #Demo #Free #Plan
+[Demo](https://app.copy.ai/projects/34884559?tool=chat&tab=results) `#Demo` `#Free` `#Plan`
 
 [Claude.ai](https://claude.ai/) - 
-[Demo](https://claude.ai/chat) #Demo #Free #Plan
+[Demo](https://claude.ai/chat) `#Demo` `#Free` `#Plan`
 
 [Character.ai](https://beta.character.ai) - 
-[Demo](https://beta.character.ai) #Demo #Free #Plan #Chatbot
+[Demo](https://beta.character.ai) `#Demo` `#Free` `#Plan` `#Chatbot`
 
 [EasyEssay.ai](https://www.easyessay.ai) - 
 [Demo](https://www.easyessay.ai/writing)
@@ -120,7 +120,6 @@ mantisd@163.com
 
 MaoMao2wordblast
 {% endhighlight %}
-
 
 [Speedwrite](https://speedwrite.com/) - 
 [Demo1](https://speedwrite.com/app) - 
@@ -140,12 +139,12 @@ mantisd@163.com
 
 [EasyPDF.ai](https://easypdf.ai)
 
-
 ---
 
 ### <a id="AI-Audio"></a>AI Audio Generation
 
 OUTDATED[Jukedeck]()
+
 ---
 
 ### <a id="AI-Research"></a>AI Research
@@ -159,7 +158,7 @@ OUTDATED[Jukedeck]()
 ### <a id="AI-Design"></a>AI Design
 
 [Looka](https://looka.com) - 
-[Demo](https://looka.com/explore) #Demo #Free #Plan
+[Demo](https://looka.com/explore) `#Demo` `#Free` `#Plan`
 
 [Galileo]()
 
