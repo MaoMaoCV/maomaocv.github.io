@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Recent Updates
+title:  AI Tools
 date:   2023-10-15 02:33:07+0800
 image:  01.jpg
 tags:   [AI tools, AI]
@@ -13,66 +13,139 @@ Table of Contents
 -----------------
 *   [AI Video](#AI-Video)
 *   [AI Image](#AI-Image)
-*   [AI Text](#AI-Text)
+*   [AI Text](#AI-Text) + Chatbot
+*   [AI Audio](#AI-Audio)
 *   [AI Research](#AI-Research)
 *   [AI Design](#AI-Design)
 *   [AI Presentation](#AI-Presentation)
 *   [AI Language](#AI-Language)
 *   [AI Efficiency](#AI-Efficiency)
+*   [ChatGPT Extensions](#ChatGPT-Extensions)
+*   [ChatGPT Prompts](#ChatGPT-Prompts)
 
 
-Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection)
 
 ---
 
-### AI Video
+### <a id="AI-Video"></a>AI Video
 
 **Script + Video**  
 [Supercreator.ai](https://www.supercreator.ai) - 
 [Demo](https://app.supercreator.ai/home) #Demo #iOS #APP #Script #Video #!Desktop  
 
+[Synthesia](https://www.synthesia.io) - 
+[Demo](https://www.synthesia.io/free-ai-video-demo#OptimizedForSharing_New) #RequestDemo #Clean
+
 **Personalized Video**  
 [tavus](https://www.tavus.io) #RequestDemo #API  
 
-**Personalized Video**  
 [Windsor](https://www.windsor.io) #RequestDemo  
+
+[Fliki]()
 
 ---
 
-### AI Image
+### <a id="AI-Image"></a>AI Image
+
+
+[FusionBrain](https://fusionbrain.ai/en/editor/) - 
+[Demo](https://fusionbrain.ai/en/editor/) #Demo #APP #Free
+
+{% highlight markdown %}
+mantisd@163.com
+
+MaoMao2fusionbrain
+{% endhighlight %}
+
+Feel Free to use my account.
+
 
 **Dream by WOMBO**  
 [Dream](https://dream.ai) - 
 [Demo](https://dream.ai/create) #Demo #APP #Free #Plan  
 
-[DreamStudio](https://beta.dreamstudio.ai/generate) - 
-[Demo](https://beta.dreamstudio.ai/generate) #Demo #APP #Free #Plan  
-
 **Wallpaper, Poster**  
-[STOCKIMG.AI](https://stockimg.ai) #Demo #FreeTrail #Plan $19/month, $29/month  
+[STOCKIMG.AI](https://stockimg.ai) #Demo #FreeTrail #Plan 
+
+$19/month, $29/month  
 
 **Stable Diffusion UI**  
-[Github](https://github.com/AUTOMATIC1111/stable-diffusion-webui/)  
+[Github](https://github.com/AUTOMATIC1111/stable-diffusion-webui/) - 
 [Apple Sillicon Installation](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon)  
 
 [Midjourney](https://www.midjourney.com) #Discord #Plan  
 
+
+
+***Image***
+[Caspa AI]()
+
+
+[Thumbly]()
+
+[NightCafe]()
+
+[Starry.ai]()
+
+[Freepik]()
+
 ---
 
-### AI Text
+### <a id="AI-Text"></a>AI Text
 
-[ChatGPT]()
+[ChatGPT]() `#Chatbot`
 
 [Copy.ai](https://app.copy.ai/) - 
-[Demo](https://app.copy.ai/projects/34884559?tool=chat&tab=results) #Demo #Free #Plan
+[Demo](https://app.copy.ai/projects/34884559?tool=chat&tab=results) `#Demo` `#Free` `#Plan`
 
+[Claude.ai](https://claude.ai/) - 
+[Demo](https://claude.ai/chat) `#Demo` `#Free` `#Plan`
+
+[Character.ai](https://beta.character.ai) - 
+[Demo](https://beta.character.ai) `#Demo` `#Free` `#Plan` `#Chatbot`
+
+[EasyEssay.ai](https://www.easyessay.ai) - 
+[Demo](https://www.easyessay.ai/writing)
 [syllaby]()
+
+[WordBlast](https://wordblst.com/) - 
+[Demo](https://wordblst.com/app#)
+
+Wordblast is designed for personal statements and opinions: letters, religious affirmations, diversity statements, fiction, and more.
+
+{% highlight markdown %}
+mantisd@163.com
+
+MaoMao2wordblast
+{% endhighlight %}
+
+[Speedwrite](https://speedwrite.com/) - 
+[Demo1](https://speedwrite.com/app) - 
+[Demo2](https://speedwrite.com/creative-app)
+
+For reports, essays, or other documents where facts are important, use Speedwrite instead.
+
+`Demo2` is Speedwrite creative
+
+{% highlight markdown %}
+mantisd@163.com
+
+？
+{% endhighlight %}
 
 [Notion]()
 
+[EasyPDF.ai](https://easypdf.ai)
+
 ---
 
-### AI Research
+### <a id="AI-Audio"></a>AI Audio Generation
+
+OUTDATED[Jukedeck]()
+
+---
+
+### <a id="AI-Research"></a>AI Research
 
 [Bearly]()
 
@@ -80,10 +153,10 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
 ---
 
-### AI Design
+### <a id="AI-Design"></a>AI Design
 
 [Looka](https://looka.com) - 
-[Demo](https://looka.com/explore) #Demo #Free #Plan
+[Demo](https://looka.com/explore) `#Demo` `#Free` `#Plan`
 
 [Galileo]()
 
@@ -91,7 +164,7 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
 ---
 
-### AI Presentation
+### <a id="AI-Presentation"></a>AI Presentation
 
 [SlidesAI]()
 
@@ -99,7 +172,7 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
 ---
 
-### AI Language
+### <a id="AI-Language"></a>AI Language
 
 [Whisper Memos]()
 
@@ -109,10 +182,38 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
 ---
 
-### AI Efficiency
+### <a id="AI-Efficiency"></a>AI Efficiency
 
 [Nanonets]()
 
 [lumen5]()
 
 [jenni]()
+
+[Writesparkle]()
+
+
+***Image to Text(CSV)***
+
+[Plugger.ai](https://www.plugger.ai/models/ocr-word-detection)
+
+---
+
+### <a id="ChatGPT-Extensions"></a>ChatGPT Extensions
+
+---
+
+### <a id="ChatGPT-Prompts"></a>ChatGPT Prompts
+
+[AI Short]()
+
+
+I want you to rate every prompt from 1-10. Tell me how the prompt could be improved. If it is below 7 generate a better prompt. If it is 7 or above, execute the prompt.
+
+---
+
+***Image Prompt Example:***
+
+Create a photo-realistic full body portrait of young woman standing amongst a field of sunflowers. Use light and shadow to capture the delicate contours of her face and the intricate details of her hair.
+
+Imagine a stunning woman standing in a garden surrounded by a riot of colorful blooms, with the sun setting in the distance. Use soft lighting to capture the warmth of the golden hour and the subtle nuances of her expression.
