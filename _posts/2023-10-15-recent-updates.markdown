@@ -24,7 +24,6 @@ Table of Contents
 *   [ChatGPT Prompts](#ChatGPT-Prompts)
 
 
-Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection)
 
 ---
 
@@ -40,7 +39,6 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 **Personalized Video**  
 [tavus](https://www.tavus.io) #RequestDemo #API  
 
-**Personalized Video**  
 [Windsor](https://www.windsor.io) #RequestDemo  
 
 [Fliki]()
@@ -193,6 +191,12 @@ OUTDATED[Jukedeck]()
 [jenni]()
 
 [Writesparkle]()
+
+
+***Image to Text(CSV)***
+
+[Plugger.ai](https://www.plugger.ai/models/ocr-word-detection)
+
 ---
 
 ### <a id="ChatGPT-Extensions"></a>ChatGPT Extensions
@@ -204,10 +208,11 @@ OUTDATED[Jukedeck]()
 [AI Short]()
 
 
-I want you to rate every prompt from 1-10. Tell me hwo the prompt could be improved. If it is below 7 generate a better prompt. If it is 7 or above, execute the prompt.
+I want you to rate every prompt from 1-10. Tell me how the prompt could be improved. If it is below 7 generate a better prompt. If it is 7 or above, execute the prompt.
+
 ---
 
-Image Prompt Example:
+***Image Prompt Example:***
 
 Create a photo-realistic full body portrait of young woman standing amongst a field of sunflowers. Use light and shadow to capture the delicate contours of her face and the intricate details of her hair.
 
