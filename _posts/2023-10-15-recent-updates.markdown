@@ -111,6 +111,8 @@ $19/month, $29/month
 [WordBlast](https://wordblst.com/) - 
 [Demo](https://wordblst.com/app#)
 
+Wordblast is designed for personal statements and opinions: letters, religious affirmations, diversity statements, fiction, and more.
+
 mantisd@163.com
 
 MaoMao2wordblast
@@ -118,6 +120,8 @@ MaoMao2wordblast
 [Speedwrite](https://speedwrite.com/) - 
 [Demo1](https://speedwrite.com/app) - 
 [Demo2](https://speedwrite.com/creative-app)
+
+For reports, essays, or other documents where facts are important, use Speedwrite instead.
 
 `Demo2` is Speedwrite creative
 
