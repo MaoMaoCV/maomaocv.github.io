@@ -3,10 +3,10 @@ layout: post
 title:  Visual Instruction Tuning
 date:   2023-04-17 16:03:30 +0800
 image:  2023-04-17s.jpg
-tags:   [Demo, LLaVA, Multi-Modal, LLM, ChatGPT, Transformer, AI, arXiv]
+tags:   [Demo, LLaVA, Multi-Modal, LLM, ChatGPT, Transformer, AI, arXiv, cs.CV, cs.AI, cs.CL, cs.LG]
 ---
 
-arXiv V7: [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)
+[arXiv](https://arxiv.org/abs/2304.08485) V7: [Visual Instruction Tuning](https://arxiv.org/pdf/2304.08485.pdf)
 
 [Github](https://llava-vl.github.io)
 
