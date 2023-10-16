@@ -43,6 +43,8 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 **Personalized Video**  
 [Windsor](https://www.windsor.io) #RequestDemo  
 
+
+[Fliki]()
 ---
 
 ### <a id="AI-Image"></a>AI Image
@@ -52,13 +54,27 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 [Demo](https://dream.ai/create) #Demo #APP #Free #Plan  
 
 **Wallpaper, Poster**  
-[STOCKIMG.AI](https://stockimg.ai) #Demo #FreeTrail #Plan $19/month, $29/month  
+[STOCKIMG.AI](https://stockimg.ai) #Demo #FreeTrail #Plan 
+
+$19/month, $29/month  
 
 **Stable Diffusion UI**  
 [Github](https://github.com/AUTOMATIC1111/stable-diffusion-webui/) - 
 [Apple Sillicon Installation](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon)  
 
 [Midjourney](https://www.midjourney.com) #Discord #Plan  
+
+***Image***
+[Caspa AI]()
+
+
+[Thumbly]()
+
+[NightCafe]()
+
+[Starry.ai]()
+
+[Freepik]()
 
 ---
 
@@ -75,9 +91,12 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 [Character.ai](https://beta.character.ai) - 
 [Demo](https://beta.character.ai) #Demo #Free #Plan #Chatbot
 
+[EasyEssay.ai](https://www.easyessay.ai) - 
+[Demo](https://www.easyessay.ai/writing)
 [syllaby]()
 
 [Notion]()
+
 
 ---
 
@@ -131,6 +150,7 @@ OUTDATED[Jukedeck]()
 
 [jenni]()
 
+[Writesparkle]()
 ---
 
 ### <a id="ChatGPT-Extensions"></a>ChatGPT Extensions
