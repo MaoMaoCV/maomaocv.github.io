@@ -103,6 +103,8 @@ $19/month, $29/month
 
 [Notion]()
 
+[EasyPDF.ai](https://easypdf.ai)
+
 
 ---
 
