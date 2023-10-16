@@ -3,7 +3,7 @@ layout: post
 title:  Bi-directional Attention Flow for Machine Comprehension
 date:   2018-06-21 16:03:30 +0800
 image:  2018-06-21s.jpg
-tags:   [Machine Comprehensive, SQuAD, ICLR, cs.washington.edu, allenai.org, AI, arXiv]
+tags:   [Machine Comprehensive, Visual Question Answering, SQuAD, ICLR, cs.washington.edu, allenai.org, AI, arXiv]
 ---
 Published as a conference paper at ICLR 2017
 
