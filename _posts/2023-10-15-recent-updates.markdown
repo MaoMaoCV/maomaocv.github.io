@@ -69,6 +69,9 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 [Copy.ai](https://app.copy.ai/) - 
 [Demo](https://app.copy.ai/projects/34884559?tool=chat&tab=results) #Demo #Free #Plan
 
+[Claude.ai](https://claude.ai/) - 
+[Demo](https://claude.ai/chat) #Demo #Free #Plan
+
 [Character.ai](https://beta.character.ai) - 
 [Demo](https://beta.character.ai) #Demo #Free #Plan #Chatbot
 
