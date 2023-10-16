@@ -43,8 +43,8 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 **Personalized Video**  
 [Windsor](https://www.windsor.io) #RequestDemo  
 
-
 [Fliki]()
+
 ---
 
 ### <a id="AI-Image"></a>AI Image
