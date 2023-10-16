@@ -31,4 +31,10 @@ From: Minjoon Seo [view email]
 
 [v6] Thu, 21 Jun 2018 10:53:20 UTC (1,301 KB)
 
-minjoon@cs.washington.edu; ali@cs.washington.edu; hannaneh@cs.washington.edu; anik@allenai.org
+minjoon@cs.washington.edu
+
+ali@cs.washington.edu
+
+hannaneh@cs.washington.edu
+
+anik@allenai.org
