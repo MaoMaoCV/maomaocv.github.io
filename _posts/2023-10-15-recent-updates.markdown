@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Recent Updates
+title:  AI Tools
 date:   2023-10-15 02:33:07+0800
 image:  01.jpg
 tags:   [AI tools, AI]
@@ -93,7 +93,7 @@ $19/month, $29/month
 
 ### <a id="AI-Text"></a>AI Text
 
-[ChatGPT]()
+[ChatGPT]() #Chatbot
 
 [Copy.ai](https://app.copy.ai/) - 
 [Demo](https://app.copy.ai/projects/34884559?tool=chat&tab=results) #Demo #Free #Plan
@@ -107,6 +107,24 @@ $19/month, $29/month
 [EasyEssay.ai](https://www.easyessay.ai) - 
 [Demo](https://www.easyessay.ai/writing)
 [syllaby]()
+
+[WordBlast](https://wordblst.com/) - 
+[Demo](https://wordblst.com/app#)
+
+mantisd@163.com
+
+MaoMao2wordblast
+
+[Speedwrite](https://speedwrite.com/) - 
+[Demo1](https://speedwrite.com/app) - 
+[Demo2](https://speedwrite.com/creative-app)
+
+`Demo2` is Speedwrite creative
+
+mantisd@163.com
+
+?
+
 
 [Notion]()
 
@@ -176,6 +194,8 @@ OUTDATED[Jukedeck]()
 
 [AI Short]()
 
+
+I want you to rate every prompt from 1-10. Tell me hwo the prompt could be improved. If it is below 7 generate a better prompt. If it is 7 or above, execute the prompt.
 ---
 
 Image Prompt Example:
