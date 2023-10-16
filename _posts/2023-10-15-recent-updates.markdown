@@ -135,3 +135,5 @@ OUTDATED[Jukedeck]()
 ---
 
 ### <a id="ChatGPT-Prompts"></a>ChatGPT Prompts
+
+[AI Short]()
