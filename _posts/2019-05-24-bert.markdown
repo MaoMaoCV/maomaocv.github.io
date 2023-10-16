@@ -6,6 +6,16 @@ image:  2019-05-24s.jpg
 tags:   [Transformer, AI, Google, arXiv]
 ---
 
-arXiv V1: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
+[arXiv](https://arxiv.org/abs/1810.04805) V1: [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
 BERT, which stands for Bidirectional Encoder Representations from Transformers.
+
+---
+
+***Submission history***
+
+From: Ming-Wei Chang [view email] 
+
+[v1] Thu, 11 Oct 2018 00:50:01 UTC (227 KB)
+
+[v2] Fri, 24 May 2019 20:37:26 UTC (309 KB)
