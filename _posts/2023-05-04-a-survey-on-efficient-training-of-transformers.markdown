@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  a Survey on Efficient Training of Transformers
+title:  A Survey on Efficient Training of Transformers
 date:   2023-05-04 16:03:30 +0800
 image:  2023-05-04s.jpg
 tags:   [Transformer, AI, arXiv]
