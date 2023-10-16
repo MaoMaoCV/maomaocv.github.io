@@ -53,6 +53,13 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 [FusionBrain](https://fusionbrain.ai/en/editor/) - 
 [Demo](https://fusionbrain.ai/en/editor/) #Demo #APP #Free
 
+mantisd@163.com
+
+MaoMao2fusionbrain
+
+Feel Free to use my account.
+
+
 **Dream by WOMBO**  
 [Dream](https://dream.ai) - 
 [Demo](https://dream.ai/create) #Demo #APP #Free #Plan  
