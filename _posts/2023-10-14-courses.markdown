@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Courses
+date:   2023-10-16 10:32:55+0800
+image:  05.jpg
+tags:   [Courses, AI]
+---
+
+[Best AI courses](https://www.coursera.org/courses?query=artificial%20intelligence)
