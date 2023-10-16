@@ -49,6 +49,10 @@ Image to Text(CSV) [Plugger.ai](https://www.plugger.ai/models/ocr-word-detection
 
 ### <a id="AI-Image"></a>AI Image
 
+
+[FusionBrain](https://fusionbrain.ai/en/editor/) - 
+[Demo](https://fusionbrain.ai/en/editor/) #Demo #APP #Free
+
 **Dream by WOMBO**  
 [Dream](https://dream.ai) - 
 [Demo](https://dream.ai/create) #Demo #APP #Free #Plan  
@@ -63,6 +67,8 @@ $19/month, $29/month
 [Apple Sillicon Installation](https://github.com/AUTOMATIC1111/stable-diffusion-webui/wiki/Installation-on-Apple-Silicon)  
 
 [Midjourney](https://www.midjourney.com) #Discord #Plan  
+
+
 
 ***Image***
 [Caspa AI]()
@@ -160,3 +166,11 @@ OUTDATED[Jukedeck]()
 ### <a id="ChatGPT-Prompts"></a>ChatGPT Prompts
 
 [AI Short]()
+
+---
+
+Image Prompt Example:
+
+Create a photo-realistic full body portrait of young woman standing amongst a field of sunflowers. Use light and shadow to capture the delicate contours of her face and the intricate details of her hair.
+
+Imagine a stunning woman standing in a garden surrounded by a riot of colorful blooms, with the sun setting in the distance. Use soft lighting to capture the warmth of the golden hour and the subtle nuances of her expression.
