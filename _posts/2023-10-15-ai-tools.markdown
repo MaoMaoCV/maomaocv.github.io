@@ -2,7 +2,7 @@
 layout: post
 title:  AI Tools
 date:   2023-10-15 02:33:07+0800
-image:  16.jpg
+image:  17.jpg
 tags:   [AI tools, AI]
 ---
 Updating a list of AI tools...
