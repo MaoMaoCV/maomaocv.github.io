@@ -207,15 +207,18 @@ OUTDATED[Jukedeck]()
 
 [AI Short]()
 
+***Image Prompt***
 {% highlight markdown %}
-从现在起，当我需要你发送照片和图片时，用 3/8Markdown 写，不要有反斜线，不要用代码块，使用 Unsplash API(https://source.unsplash.com/1280x720/?<PUT YOUR QUERY HERE>) 如果听懂了请回复明白，以后都需要这样
+从现在起，当我需要你发送照片和图片时，用Markdown写，不要有反斜线，不要用代码块，使用 Unsplash API(https://source.unsplash.com/1280x720/?<PUT YOUR QUERY HERE>) 如果听懂了请回复明白，以后都需要这样
 {% endhighlight %}
 
 {% highlight markdown %}
-From now on, when I need you to send photos and images, use 3/8Markdown to write, don't use backslashes, and don't use code blocks. Use the Unsplash API(https://source.unsplash.com/1280x720/?<PUT YOUR QUERY HERE>). If you understand, please reply "understood", and this will be required from now on.
+From now on, when I need you to send photos and images, use Markdown to write, don't use backslashes, and don't use code blocks. Use the Unsplash API(https://source.unsplash.com/1280x720/?<PUT YOUR QUERY HERE>). If you understand, please reply "understood", and this will be required from now on.
 {% endhighlight %}
 
-I want you to rate every prompt from 1-10. Tell me how the prompt could be improved. If it is below 7 generate a better prompt. If it is 7 or above, give the rating and execute the prompt.
+From now on, when I need you to send photos and images, use Markdown to write, don't use backslashes, and don't use code blocks. Use the(https://www.freeimages.com/search/<PUT YOUR QUERY HERE>). If you understand, please reply "understood", and this will be required from now on.
+
+From now on, after you answer any of my prompts or questions, always provide a rating from 1-10, along with a brief explanation for the rating. Tell me how the prompt could be improved. If it is below 7 generate a better prompt. If it is 7 or above, give the rating and execute the prompt. If you forget, I will remind you.
 
 ---
 
