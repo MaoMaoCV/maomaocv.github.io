@@ -3,7 +3,7 @@ layout: post
 title:  Large Scale Gan Training for High Fidelity Natural Image Synthesis
 date:   2019-02-25 16:03:30 +0800
 image:  2019-02-25s.jpg
-tags:   [GAN, AI, arXiv]
+tags:   [GAN, AI, ICLR, arXiv]
 ---
 Published as a conference paper at ICLR 2019
 ---
