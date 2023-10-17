@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  Courses
+title:  AI Courses
 date:   2023-10-16 10:32:55+0800
-image:  05.jpg
+image:  15.jpg
 tags:   [Courses, AI]
 ---
 
