@@ -1,10 +1,16 @@
 ---
 layout: post
 title:  Page 2
-date:   2021-06-08 19:53:30+0800
+date:   2021-06-08 00:00:00+0800
 image:  0020.jpg
-tags:   [Page 2]
+tags:   [Page Redirect]
 ---
-## photo credit:
+[Page 1](https://maomaocv.github.io)
+
+[Page 2](https://maomaocv.github.io/page/2/)
+
+[Page 3](https://maomaocv.github.io/page/3/)
+---
+## photo credit: 
 [500px](https://500px.com/photo/1057063964/weltwunder-wonder-of-the-world-by-thomasz)
 

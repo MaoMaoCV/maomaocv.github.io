@@ -133,6 +133,9 @@ mantisd@163.com
 ？
 {% endhighlight %}
 
+[phrasly](https://phrasly.ai/dashboard/ai-detector) - 
+[Demo](https://phrasly.ai/dashboard/ai-detector)
+
 [Notion]()
 
 [EasyPDF.ai](https://easypdf.ai)
