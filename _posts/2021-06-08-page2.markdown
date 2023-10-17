@@ -1,13 +1,10 @@
 ---
 layout: post
-title:  Temp Album
-date:   2022-11-21 19:53:30+0800
+title:  Page 2
+date:   2021-06-08 19:53:30+0800
 image:  0020.jpg
-tags:   Life
+tags:   Page 2
 ---
-
-## This is just a temp album. Nothing here.
-
-photo credit:
+## photo credit:
 [500px](https://500px.com/photo/1057063964/weltwunder-wonder-of-the-world-by-thomasz)
 
