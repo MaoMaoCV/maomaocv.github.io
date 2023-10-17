@@ -3,7 +3,7 @@ layout: post
 title:  Swin Transformer - Hierarchical Vision Transformer Using Shifted Windows
 date:   2021-03-10 16:03:30 +0800
 image:  2021-03-10s.jpg
-tags:   [cs.CV, AI, Microsoft, ICCV]
+tags:   [AI, Microsoft, cs.CV, ICCV]
 ---
 Published as a conference paper at ICCV 2021
 ---
