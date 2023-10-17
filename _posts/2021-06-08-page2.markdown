@@ -3,7 +3,7 @@ layout: post
 title:  Page 2
 date:   2021-06-08 19:53:30+0800
 image:  0020.jpg
-tags:   Page 2
+tags:   [Page 2]
 ---
 ## photo credit:
 [500px](https://500px.com/photo/1057063964/weltwunder-wonder-of-the-world-by-thomasz)
