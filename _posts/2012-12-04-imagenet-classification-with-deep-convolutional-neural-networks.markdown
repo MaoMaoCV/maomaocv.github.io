@@ -8,6 +8,7 @@ tags:   [Object Recognition, Dropout, AlexNet, ImageNet, CNN, utoronto, AI, NIPS
 Published as a conference paper at NIPS 2012
 ---
 
+---
 ImageNet Large-Scale Visual Recognition Challenge - 
 ILSVRC-2010
 
