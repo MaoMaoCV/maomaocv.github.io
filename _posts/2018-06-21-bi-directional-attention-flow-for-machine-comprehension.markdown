@@ -6,14 +6,16 @@ image:  2018-06-21s.jpg
 tags:   [Machine Comprehensive, Visual Question Answering, SQuAD, ICLR, cs.washington.edu, allenai.org, AI, arXiv]
 ---
 Published as a conference paper at ICLR 2017
+
 ---
 [arXiv](https://arxiv.org/abs/1611.01603) V6: [BI-DIRECTIONAL ATTENTION FLOW FOR MACHINE COMPREHENSION](https://arxiv.org/pdf/1611.01603.pdf)
+
 ---
 **抽取式问答**
 
 首次提出了双向的attention流应用在MRC任务，
 
-在SQuAD数据上取得sota的结果，后面的许多论文都是在此基础上进行的。
+在SQuAD数据上取得SOTA的结果，后面的许多论文都是在此基础上进行的。
 ---
 ***Submission history***
 

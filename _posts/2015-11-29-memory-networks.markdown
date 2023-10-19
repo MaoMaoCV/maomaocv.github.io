@@ -6,7 +6,9 @@ image:  2015-11-29s.jpg
 tags:   [Facebook AI Research, AI, meta, ICLR, arXiv]
 ---
 Published as a conference paper at ICLR 2015
+
 ---
 arXiv V11: [MEMORY NETWORKS](https://arxiv.org/pdf/1410.3916.pdf)
+
 ---
 {jase,spchopra,abordes}@fb.com
