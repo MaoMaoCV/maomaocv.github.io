@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  Paper
+title:  AI Reference Management
 date:   2023-10-17 01:32:55+0800
 image:  01.jpg
-tags:   [Paper]
+tags:   [Reference Management]
 ---
 
-Read Papers!
+Read Papers NOW!
 
 [Paper Digest](https://www.paperdigest.org) - 
 [Literature Review](https://www.paperdigest.org/review/) - 
