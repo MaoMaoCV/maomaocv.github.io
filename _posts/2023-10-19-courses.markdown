@@ -10,4 +10,4 @@ tags:   [Courses, AI]
 
 ## Presentations
 
-[Ian Goodfellow](https://www.iangoodfellow.com/slides/)
+[Ian Goodfellow](https://www.iangoodfellow.com/slides/) on Adversarial Examples and Adversarial Training + Generative Adversarial Networks
