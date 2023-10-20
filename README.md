@@ -1,1 +1,3 @@
 # This is a personal Blog...
+
+Update: https://redocly.com/docs/api-registry/guides/api-registry-quickstart/

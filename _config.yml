@@ -1,16 +1,4 @@
 #-------------------------------
-# Code Block Copy Button
-seo:
-  title: Example Developer Portal
-  description: Learn how to work with Example APIs
-copyCodeSnippet:
-  enable: true
-  buttonText: Copy
-  tooltipText: Copy code to clipboard
-  toasterText: Copied! Thank you for using moamaocv.github.io!
-  toasterDuration: 1500
-
-#-------------------------------
 # General Site Settings
 
 title: Mao Mao CV Blog
@@ -33,6 +21,17 @@ twitter:   https://twitter.com/ # Add your Facebook handle
 instagram: https://www.instagram.com/mao_mao_mao_mao/ # Add your Facebook handle
 pinterest: https://www.pinterest.com/ # Add your Facebook handle
 
+#-------------------------------
+# Code Block Copy Button
+seo:
+  title: Example Developer Portal
+  description: Learn how to work with Example APIs
+copyCodeSnippet:
+  enable: true
+  buttonText: Copy
+  tooltipText: Copy code to clipboard
+  toasterText: Copied! Thank you for using moamaocv.github.io!
+  toasterDuration: 1500
 
 #-------------------------------
 # Comment Section (Disqus)
