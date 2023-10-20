@@ -1,18 +1,31 @@
-const codeHeaders = document.querySelectorAll('.code-header');
-const codeBlocks = document.querySelectorAll('.code-header + .highlighter-rouge, .code-header + .highlight');
+var codeBlocks = document.querySelectorAll('pre.highlight');
 
-codeHeaders.forEach((codeHeader, index) => {
-  const codeBlock = codeBlocks[index];
-  const copyButton = codeHeader.querySelector('.copy-code-button');
-  
-  // Add click event to copy content
-  copyButton.addEventListener('click', () => {
-    const code = codeBlock.innerText;
+var copyButton = document.createElement('button');
+copyButton.type = 'button';
+copyButton.ariaLabel = 'Copy code to clipboard';
+copyButton.innerText = 'Copy';
+
+codeBlock.append(copyButton);
+pre.highlight > button {
+  opacity: 0;
+}
+pre.highlight:hover > button {
+  opacity: 1;
+}
+pre.highlight > button:active,
+pre.highlight > button:focus {
+  opacity: 1;
+}
+codeBlocks.forEach(function (codeBlock) {
+  // ...
+  copyButton.addEventListener('click', function () {
+    var code = codeBlock.querySelector('code').innerText.trim();
     window.navigator.clipboard.writeText(code);
-    const originalText = copyButton.innerText;
-    copyButton.innerText = 'Copied!';
-    setTimeout(() => {
-      copyButton.innerText = originalText;
-    }, 2000);
   });
 });
+copyButton.innerText = 'Copied';
+var fourSeconds = 4000;
+
+setTimeout(function () {
+  copyButton.innerText = 'Copy';
+}, fourSeconds);

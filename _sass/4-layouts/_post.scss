@@ -90,7 +90,19 @@
   align-items: center;
   flex-wrap: wrap;
 }
+/* _sass/_post.css */
+pre.highlight > button {
+  opacity: 0;
+}
 
+pre.highlight:hover > button {
+  opacity: 1;
+}
+
+pre.highlight > button:active,
+pre.highlight > button:focus {
+  opacity: 1;
+}
 .post-info {
   .post-info-author {
     .info-author-avatar {
@@ -129,27 +141,28 @@
     }
   }
 }
-.copy-code-button {
-  position: absolute;
-  top: 8px;
-  right: 8px;
-  background-color: transparent;
-  border: 1px solid white;
-  color: white;
-  border-radius: 5px;
-  padding: 5px 10px;
-  cursor: pointer;
-  font-family: 'Source Code Pro', monospace;  /* Assuming you are using this font, adjust if different */
-  font-size: 14px;
-  transition: background-color 0.3s ease;
-}
+// .copy-code-button {
+//   position: absolute;
+//   top: 8px;
+//   right: 8px;
+//   background-color: transparent;
+//   border: 1px solid white;
+//   color: white;
+//   border-radius: 5px;
+//   padding: 5px 10px;
+//   cursor: pointer;
+//   font-family: 'Source Code Pro', monospace;  /* Assuming you are using this font, adjust if different */
+//   font-size: 14px;
+//   transition: background-color 0.3s ease;
+// }
 
-.copy-code-button:hover {
-  background-color: rgba(255, 255, 255, 0.1);  /* Slight highlight on hover */
-}
-.post-body {
-  padding-bottom: 20px;
-}
+// .copy-code-button:hover {
+//   background-color: rgba(255, 255, 255, 0.1);  /* Slight highlight on hover */
+// }
+// .post-body {
+//   padding-bottom: 20px;
+// }
+
 
 .post-share {
   padding: 10px 0;
