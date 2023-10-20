@@ -5,9 +5,10 @@ import shutil
 INPUT_MODE = True # INPUT_MODE = False for manual inputs
 
 if(INPUT_MODE):
-    date = input("Enter date of the article:\n")
+    date = input("Enter date of the article: (<EXAMPLE INPUT> = \"2023-12-31\") \n")
     title_name = input("Enter name of the article:\n")
-    URL = input("Enter URL of the article:\n")
+    URL = input("Enter URL of the article: (<EXAMPLE INPUT> = \"https://arxiv.org/pdf/1234.56789.pdf \")\n")
+    cites = input("Enter citaion in k: (<YOUR INPUT> round your input to one digit after the decimal)\n")
 else:
     date = "2021-06-09"
     title_name = "Linear Transformers Are Secretly Fast Weight Programmers"
@@ -46,7 +47,7 @@ def auto_post(date, post_title, article_title, markdown_name, img_name, URL):
     print(article_title, "\n")
     # print("markdown template:\n")
     print("---\nlayout: post\ntitle:  ", post_title, "\ndate:   ", date, timezone)
-    tags = "[Transformer, AI, arXiv, ~.k Cites]"
+    tags = f"[Transformer, AI, arXiv, ~{cites}k Cites]"
     print("image:  ", img_name, "\ntags:   ", tags, "\n---")
     print(f"arXiv V1: [{article_title}]({URL})")
 
@@ -56,7 +57,7 @@ def auto_post(date, post_title, article_title, markdown_name, img_name, URL):
     content += "\ndate:   " + date + timezone
     content += "\nimage:  " + img_name + "\ntags:   " + tags + "\n---\n\n"
     raw_URL = URL.replace("/pdf/", "/abs/").replace(".pdf", "")
-    content += f"[arXiv]({raw_URL} V1: [{article_title}]({URL})"
+    content += f"[arXiv]({raw_URL}) V1: [{article_title}]({URL})"
     fp = open(path, 'w')
     fp.write(content)
     fp.close()
