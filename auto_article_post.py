@@ -2,7 +2,7 @@ from PIL import Image
 import os
 import shutil
 
-INPUT_MODE = True
+INPUT_MODE = True # INPUT_MODE = False for manual inputs
 
 if(INPUT_MODE):
     date = input("Enter date of the article:\n")
@@ -13,16 +13,12 @@ else:
     title_name = "Linear Transformers Are Secretly Fast Weight Programmers"
     URL = "https://arxiv.org/pdf/2102.11174.pdf"
 
-
-
 def find_latest_file(src_dir, allowed_extensions):
     files = [os.path.join(src_dir, f) for f in os.listdir(src_dir) if os.path.isfile(os.path.join(src_dir, f))]
     # Filter files by allowed extensions (e.g., png and jpg)
     filtered_files = [f for f in files if f.lower().endswith(allowed_extensions)]
-
     if not filtered_files:
         return None
-
     # Find the latest file among the filtered files
     latest_file = max(filtered_files, key=os.path.getctime)
     return latest_file
@@ -37,7 +33,6 @@ def rename_and_move(new_name):
     if latest_file is None:
         print("No files with allowed extensions found in the source directory.")
         return
-
     # Rename and move the file
     new_file_path = os.path.join(dest_dir, new_name)
     shutil.move(latest_file, new_file_path)
@@ -51,7 +46,7 @@ def auto_post(date, post_title, article_title, markdown_name, img_name, URL):
     print(article_title, "\n")
     # print("markdown template:\n")
     print("---\nlayout: post\ntitle:  ", post_title, "\ndate:   ", date, timezone)
-    tags = "[Transformer, AI, arXiv, .k Cites]"
+    tags = "[Transformer, AI, arXiv, ~.k Cites]"
     print("image:  ", img_name, "\ntags:   ", tags, "\n---")
     print(f"arXiv V1: [{article_title}]({URL})")
 
