@@ -51,7 +51,6 @@ Table of Contents
 [FusionBrain](https://fusionbrain.ai/en/editor/) - 
 [Demo](https://fusionbrain.ai/en/editor/) #Demo #APP #Free
 
-{% include codeHeader.html %}
 {% highlight markdown %}
 mantisd@163.com
 

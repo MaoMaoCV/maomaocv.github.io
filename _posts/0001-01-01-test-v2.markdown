@@ -13,7 +13,6 @@ tags:   [Transformer, AI, arXiv]
 [Google Scholar](https) - 
 [Semantic Scholar](https)
 
-{% include post.html %}
 {% highlight markdown %}
 something 
 {% endhighlight %}

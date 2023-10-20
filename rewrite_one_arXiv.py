@@ -12,7 +12,7 @@ with open(markdown_path, 'r') as fp:
 start_index = content.find("https://arxiv.org/pdf/")
 if start_index != -1:
     end_index = content.find(".pdf", start_index)
-    if end_index != -1:
+    if end_index != -1: 
         URL = content[start_index:end_index + 4]
         raw_URL = URL.replace("/pdf/", "/abs/").replace(".pdf", "")
 
