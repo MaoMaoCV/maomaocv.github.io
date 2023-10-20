@@ -60,7 +60,8 @@ def auto_post(date, post_title, article_title, markdown_name, img_name, URL):
     content += "---\nlayout: post\ntitle:  " + post_title
     content += "\ndate:   " + date + timezone
     content += "\nimage:  " + img_name + "\ntags:   " + tags + "\n---\n\n"
-    content += f"arXiv V1: [{article_title}]({URL})"
+    raw_URL = URL.replace("/pdf/", "/abs/").replace(".pdf", "")
+    content += f"[arXiv]({raw_URL} V1: [{article_title}]({URL})"
     fp = open(path, 'w')
     fp.write(content)
     fp.close()
