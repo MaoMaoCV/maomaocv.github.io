@@ -1,4 +1,16 @@
 #-------------------------------
+# Code Block Copy Button
+seo:
+  title: Example Developer Portal
+  description: Learn how to work with Example APIs
+copyCodeSnippet:
+  enable: true
+  buttonText: Copy
+  tooltipText: Copy code to clipboard
+  toasterText: Copied! Thank you for using moamaocv.github.io!
+  toasterDuration: 1500
+
+#-------------------------------
 # General Site Settings
 
 title: Mao Mao CV Blog
@@ -12,18 +24,6 @@ url: "https://MaoMaoCV.github.io/" # the base hostname & protocol for your site,
 # About Section
 author-name:   Mao Mao
 author-avatar: 09.jpg # Avatar image which will be showing in the posts
-
-#-------------------------------
-# Code Block Copy Button
-seo:
-  title: Example Developer Portal
-  description: Learn how to work with Example APIs
-copyCodeSnippet:
-  enable: true
-  buttonText: Copy
-  tooltipText: Copy code to clipboard
-  toasterText: Copied! Thank you for using moamaocv.github.io!
-  toasterDuration: 1500
 
 
 #-------------------------------
@@ -46,7 +46,7 @@ instafeed: flase # To enable the instafeed, use the value true. To turn off use 
 
 #-------------------------------
 # Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
+google-analytics: G-HB7D85S8XJ # Add your identifier. For example UA-99631805-1.
 
 
 #-------------------------------
