@@ -17,8 +17,8 @@ tags:   [Demo, LLaVA, Multi-Modal, LLM, ChatGPT, Transformer, AI, arXiv, cs.CV, 
 LLaVA ChatBot: [Demo](https://llava.hliu.cc)
 
 ---
-[NASA ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230408485L/abstract)
-
+[NASA ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv230408485L/abstract) - 
+[Semantic Scholar](https://api.semanticscholar.org/CorpusID:258179774)
 
 {% highlight markdown %}
 @article{Liu2023VisualIT,
