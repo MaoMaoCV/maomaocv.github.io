@@ -6,4 +6,13 @@ image:  2023-10-11s.jpg
 tags:   [Transformer, AI, arXiv]
 ---
 
-arXiv V1: [The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)](https://arxiv.org/pdf/2309.17421.pdf)
+[arXiv](https://arxiv.org/abs/2309.17421) V1: [The Dawn of LMMs: Preliminary Explorations with GPT-4V(ision)](https://arxiv.org/pdf/2309.17421.pdf)
+
+---
+[NASA ADS](https) - 
+[Google Scholar](https) - 
+[Semantic Scholar](https)
+
+{% highlight markdown %}
+
+{% endhighlight %}
