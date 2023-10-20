@@ -7,3 +7,7 @@ tags:   [Courses, AI]
 ---
 
 [Best AI courses](https://www.coursera.org/courses?query=artificial%20intelligence)
+
+## Presentations
+
+[Ian Goodfellow](https://www.iangoodfellow.com/slides/)

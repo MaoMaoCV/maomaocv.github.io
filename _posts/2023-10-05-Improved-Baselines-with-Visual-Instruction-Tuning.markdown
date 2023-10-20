@@ -3,7 +3,7 @@ layout: post
 title:  Improved Baselines with Visual Instruction Tuning
 date:   2023-10-05 16:03:30 +0800
 image:  2023-10-05s.jpg
-tags:   [Demo, LLaVA, Multi-Modal, LLM, ChatGPT, Transformer, AI, ~0.0k Citations, arXiv]
+tags:   [Demo, LLaVA, Multi-Modal, LLM, ChatGPT, Transformer, AI, arXiv, ~0.0k Citations]
 ---
 
 [arXiv](https://arxiv.org/abs/2310.03744) V1: [Improved Baselines with Visual Instruction Tuning](https://arxiv.org/pdf/2310.03744.pdf)
