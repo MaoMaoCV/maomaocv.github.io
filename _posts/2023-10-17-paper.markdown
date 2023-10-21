@@ -8,6 +8,9 @@ tags:   [Reference Management]
 
 Read Papers NOW!
 
+[爱可可老师 知乎](https://www.zhihu.com/column/c_1302892716695818240) - 
+Latest AI papers
+
 [Paper with Code](https://paperswithcode.com) - 
 [SOTA](https://paperswithcode.com/sota)
 
