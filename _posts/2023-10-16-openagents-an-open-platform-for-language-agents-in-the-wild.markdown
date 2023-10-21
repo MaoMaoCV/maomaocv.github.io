@@ -10,15 +10,14 @@ tags:   [Demo, ChatBot, LMM, GPT4, AI, arXiv, ~0.0k Citations]
 
 [Github](https://github.com/xlang-ai/OpenAgents) - 
 [User Manual](https://docs.xlang.ai/user-manual/overview) - 
-
+[Youtube Overview](https://www.youtube.com/watch?v=Jtfo_4m4GVE)
 
 XLANG: [Demo](https://chat.xlang.ai)
 
-[Youtube Overview](https://www.youtube.com/watch?v=Jtfo_4m4GVE)
 
 ---
 [NASA ADS](https://ui.adsabs.harvard.edu/abs/2023arXiv231010634X/abstract) - 
-[Google Scholar](https) NOT YET- 
+[Google Scholar](https) CAN NOT BE FOUND- 
 [Semantic Scholar](https://www.semanticscholar.org/paper/OpenAgents%3A-An-Open-Platform-for-Language-Agents-in-Xie-Zhou/f0227a0500f2875d9af3d62b5afb3bb93c2b4561)
 
 {% highlight markdown %}
