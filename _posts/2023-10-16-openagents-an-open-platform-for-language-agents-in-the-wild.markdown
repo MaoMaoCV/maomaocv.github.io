@@ -3,7 +3,7 @@ layout: post
 title:  OpenAgents - An Open Platform for Language Agents in the Wild
 date:   2023-10-16 16:03:30 +0800
 image:  2023-10-16s.jpg
-tags:   [Demo, ChatBot, LMM, GPT4, AI, arXiv, ~0.0k Citations]
+tags:   [Demo, ChatBot, LMM, GPT-4, AI, arXiv, ~0.0k Citations]
 ---
 
 [arXiv](https://arxiv.org/abs/2310.10634) V1: [OpenAgents: AN OPEN PLATFORM FOR LANGUAGE AGENTS IN THE WILD](https://arxiv.org/pdf/2310.10634.pdf)
