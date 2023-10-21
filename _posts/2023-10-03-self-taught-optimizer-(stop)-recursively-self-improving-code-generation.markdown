@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Self-taught Optimizer (STOP) - Recursively Self-Improving Code Generation
+title:  Self-Taught Optimizer (STOP) - Recursively Self-Improving Code Generation
 date:   2023-10-03 16:03:30 +0800
 image:  2023-10-03s-Zelikman.jpg
 tags:   [Self-Improving, Meta Learning, GPT4, Transformer, AI, arXiv]
