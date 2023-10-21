@@ -8,8 +8,11 @@ tags:   [Reference Management]
 
 Read Papers NOW!
 
-[CiteDrive](https://www.citedrive.com/en/) - 
+[Paper with Code](https://paperswithcode.com) - 
+[SOTA](https://paperswithcode.com/sota)
 
+[MIT-IBM Watson AI Lab]() - 
+[Paper + Code](https://mitibmwatsonailab.mit.edu/research/papers-code/)
 
 [Paper Digest](https://www.paperdigest.org) - 
 [Literature Review](https://www.paperdigest.org/review/) - 
@@ -26,4 +29,7 @@ Mendeley
 
 [Lateral]() - 
 
+
+
+[CiteDrive](https://www.citedrive.com/en/) - 
 
