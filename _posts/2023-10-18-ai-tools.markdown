@@ -93,6 +93,8 @@ $19/month, $29/month
 
 ### <a id="AI-Text"></a>AI Text
 
+https://chat.aimakex.com
+
 [ChatGPT]() `#Chatbot`
 
 [Copy.ai](https://app.copy.ai/) - 
