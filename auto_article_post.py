@@ -47,7 +47,7 @@ def auto_post(date, post_title, article_title, markdown_name, img_name, URL):
     print(article_title, "\n")
     # print("markdown template:\n")
     print("---\nlayout: post\ntitle:  ", post_title, "\ndate:   ", date, timezone)
-    tags = f"[Transformer, AI, arXiv, ~{cites}k Cites]"
+    tags = f"[Transformer, AI, arXiv, ~{cites}k Citations]"
     print("image:  ", img_name, "\ntags:   ", tags, "\n---")
     print(f"arXiv V1: [{article_title}]({URL})")
 
