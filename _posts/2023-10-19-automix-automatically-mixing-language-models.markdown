@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Automix - Automatically Mixing Language Models
+title:  AutoMix - Automatically Mixing Language Models
 date:   2023-10-19 16:03:30 +0800
 image:  2023-10-19-automix-automatically-mixing-language-models_squared.jpg
 tags:   [Transformer, AI, arXiv, ~0.0k Citations]

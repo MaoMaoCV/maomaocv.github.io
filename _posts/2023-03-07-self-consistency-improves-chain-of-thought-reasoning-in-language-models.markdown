@@ -3,7 +3,7 @@ layout: post
 title:  Self-Consistency Improves Chain of Thought Reasoning in Language Models
 date:   2023-03-07 16:03:30 +0800
 image:  2023-03-07-self-consistency-improves-chain-of-thought-reasoning-in-language-models_squared.jpg
-tags:   [Chain of Thought, Google, AI, arXiv, ICLR, ~0.7k Citations, ~V1~ 21 Mar 2022]
+tags:   [Self-Consistency, Chain of Thought, Google, AI Reasoning, AI, arXiv, ICLR, ~0.7k Citations, ~V1~ 21 Mar 2022]
 ---
 Published as a conference paper at ICLR 2023
 

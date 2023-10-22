@@ -3,7 +3,7 @@ layout: post
 title:  Large Language Models Cannot Self-Correct Reasoning yet
 date:   2023-10-03 16:03:30 +0800
 image:  2023-10-03-large-language-models-cannot-self-correct-reasoning-yet_squared.jpg
-tags:   [Agent, Multi-agent, GSM8K, CommonSenseQA, HotpotQA, CommonGen-Hard, AI consistency, AI reasoning, AI, arXiv, ~0.0kk Citations]
+tags:   [Self-Correct, Self-Consistency, Chain of Thought, Agent, Multi-agent, GSM8K, CommonSenseQA, HotpotQA, CommonGen-Hard, AI Consistency, AI Reasoning, AI, arXiv, ~0.0k Citations]
 ---
 
 [arXiv](https://arxiv.org/abs/2310.01798) V1: [LARGE LANGUAGE MODELS CANNOT SELF-CORRECT REASONING YET](https://arxiv.org/pdf/2310.01798.pdf)
@@ -58,7 +58,7 @@ YetJ Huang, X Chen, S Mishra, H S Zheng, A W Yu, X Song, D Zhou[Google DeepMind]
 模型很难在没有外部反馈的情况下进行自我修正，并提出对未来研究的启示和应用建议。 
 
 >Large Language Models (LLMs) have emerged as a groundbreaking technology with their unparalleled text generation capabilities across various applications. Nevertheless, concerns persist regarding the accuracy and appropriateness of their generated content. A contemporary methodology, self-correction, has been proposed as a remedy to these issues. Building upon this premise, this paper critically examines the role and efficacy of self-correction within LLMs, shedding light on its true potential and limitations. Central to our investigation is the notion of intrinsic self-correction, whereby an LLM attempts to correct its initial responses based solely on its inherent capabilities, without the crutch of external feedback. In the context of reasoning, our research indicates that LLMs struggle to selfcorrect their responses without external feedback, and at times, their performance might even degrade post self-correction. Drawing from these insights, we offer suggestions for future research and practical applications in this field.
->
+
 “Post-hoc prompting,” where the prompting is applied after the responses have been generated. “Pre-hoc prompting” is appplied before the responses.
 
 The paper suggests that Self-correction works because the answer is already within the LLM's search space.
