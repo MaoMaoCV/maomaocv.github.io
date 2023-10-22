@@ -3,7 +3,7 @@ layout: post
 title:  Language Agent Tree Search Unifies Reason- Ing Acting and Planning in Language Models
 date:   2023-10-06 16:03:30 +0800
 image:  2023-10-06-language-agent-tree-search-unifies-reason--ing-acting-and-planning-in-language-models_squared.jpg
-tags:   [Transformer, AI, arXiv, ~0.0k Citations]
+tags:   [Agent, AI, arXiv, ~0.0k Citations]
 ---
 
 [arXiv](https://arxiv.org/abs/2310.04406) V1: [LANGUAGE AGENT TREE SEARCH UNIFIES REASON- ING ACTING AND PLANNING IN LANGUAGE MODELS](https://arxiv.org/pdf/2310.04406.pdf)
