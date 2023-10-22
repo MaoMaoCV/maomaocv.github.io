@@ -2,7 +2,7 @@
 layout: post
 title:  Reason for Future, Act for Now - a Principled Framework for Autonomous Llm Agents with Provable Sample Efficiency
 date:   2023-10-12 16:03:30 +0800
-image:  reason-for-future-act-for-now-a-principled-framework-for-autonomous-llm-agents-with-provable-sample-efficiency_squared.jpg
+image:  2023-10-12-reason-for-future-act-for-now-a-principled-framework-for-autonomous-llm-agents-with-provable-sample-efficiency_squared.jpg
 tags:   [Agent, LLM, AI, arXiv, ~0.0k Citations]
 ---
 
