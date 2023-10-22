@@ -14,3 +14,5 @@ BU MSAI Program
 <small>1999 - 2014</small>
 
 Born in Beijing, China.
+
+![]({{site.baseurl}}/img/mao_mao_mao_mao_qr.jpg)
