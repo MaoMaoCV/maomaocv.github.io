@@ -19,7 +19,7 @@ if start_index != -1:
 # Replace "arXiv" with the modified URL
 content = content.replace("arXiv V", f"[arXiv]({raw_URL}) V")
 content += "\n\n---\n[NASA ADS](https) - \n[Google Scholar](https) - \n[Semantic Scholar](https)\n\n{% highlight markdown %}\n\n{% endhighlight %}"
-content += "\n---\n"
+content += "\n\n---\n"
 
 
 # Write the modified content back to the file
