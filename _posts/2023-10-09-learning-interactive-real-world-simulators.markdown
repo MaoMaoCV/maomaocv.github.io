@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Learning Interactive Real-world Simulators
+title:  Learning Interactive Real-World Simulators
 date:   2023-10-09 16:03:30 +0800
 image:  2023-10-09-learning-interactive-real-world-simulators_squared.jpg
 tags:   [Agent, AI, arXiv, ~0.0k Citations]
