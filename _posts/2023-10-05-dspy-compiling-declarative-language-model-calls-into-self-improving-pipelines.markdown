@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Dspy - Compiling Declarative Language Model Calls Into Self-improving Pipelines
+title:  DSPy - Compiling Declarative Language Model Calls Into Self-improving Pipelines
 date:   2023-10-05 16:03:30 +0800
 image:  2023-10-05-dspy-compiling-declarative-language-model-calls-into-self-improving-pipelines_squared.jpg
 tags:   [Agent, AI, arXiv, ~0.0k Citations]
