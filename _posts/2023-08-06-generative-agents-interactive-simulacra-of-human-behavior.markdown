@@ -3,7 +3,7 @@ layout: post
 title:  Generative Agents - Interactive Simulacra of Human Behavior
 date:   2023-08-06 16:03:30 +0800
 image:  2023-08-06s.jpg
-tags:   [Transformer, AI, arXiv]
+tags:   [Agents, Transformer, AI, arXiv]
 ---
 
 arXiv V2: [Generative Agents: Interactive Simulacra of Human Behavior](https://arxiv.org/pdf/2304.03442.pdf)
