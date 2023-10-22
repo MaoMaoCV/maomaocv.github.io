@@ -2,7 +2,7 @@
 layout: post
 title:  Waymax - an Accelerated, Data-driven Simulator for Large-scale Autonomous Driving Research
 date:   2023-10-12 16:03:30 +0800
-image:  2023-10-12-waymax-an-accelerated,-data-driven-simulator-for-large-scale-autonomous-driving-research_squared.jpg
+image:  2023-10-12-waymax-an-accelerated-data-driven-simulator-for-large-scale-autonomous-driving-research_squared.jpg
 tags:   [Transformer, AI, arXiv, ~0.0k Citations]
 ---
 
