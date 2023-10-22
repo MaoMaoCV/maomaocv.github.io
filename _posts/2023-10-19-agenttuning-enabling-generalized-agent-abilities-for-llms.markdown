@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  AgentTuning - Enabling Generalized Agent Abilities for Llms
+title:  AgentTuning - Enabling Generalized Agent Abilities for LLMs
 date:   2023-10-19 16:03:30 +0800
 image:  2023-10-19-agenttuning-enabling-generalized-agent-abilities-for-llmss.jpg
-tags:   [Agent, AI, arXiv, ~0.0k Citations]
+tags:   [Agent, LLM, AI, arXiv, ~0.0k Citations]
 ---
 
 [arXiv](https://arxiv.org/abs/2310.12823) V1: [AGENTTUNING: ENABLING GENERALIZED AGENT ABILITIES FOR LLMS](https://arxiv.org/pdf/2310.12823.pdf)
