@@ -3,7 +3,7 @@ layout: post
 title:  Memgpt - Towards Llms as Operating Systems
 date:   2023-10-12 16:03:30 +0800
 image:  2023-10-12-memgpt-towards-llms-as-operating-systems_squared.jpg
-tags:   [Transformer, AI, arXiv, ~0.0k Citations]
+tags:   [Agent, AI, arXiv, ~0.0k Citations]
 ---
 
 [arXiv](https://arxiv.org/abs/2310.08560) V1: [MEMGPT: TOWARDS LLMS AS OPERATING SYSTEMS](https://arxiv.org/pdf/2310.08560.pdf)
