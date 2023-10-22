@@ -1,11 +1,13 @@
 ---
 layout: post
 title:  AI Tools
-date:   2023-10-15 02:33:07+0800
+date:   2023-10-21 02:33:07+0800
 image:  17.jpg
 tags:   [AI tools, AI]
 ---
 Updating a list of AI tools...
+
+[AI工具集](https://ai-bot.cn)
 
 * * *
 
@@ -93,6 +95,8 @@ $19/month, $29/month
 
 ### <a id="AI-Text"></a>AI Text
 
+https://chat.aimakex.com
+
 [ChatGPT]() `#Chatbot`
 
 [Copy.ai](https://app.copy.ai/) - 
@@ -132,6 +136,9 @@ mantisd@163.com
 
 ？
 {% endhighlight %}
+
+[phrasly](https://phrasly.ai/dashboard/ai-detector) - 
+[Demo](https://phrasly.ai/dashboard/ai-detector)
 
 [Notion]()
 
