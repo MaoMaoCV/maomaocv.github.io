@@ -84,22 +84,25 @@ def make_title(title_string):
     while(markdown_name[-1] == '-'):
         markdown_name = markdown_name[:-1]
     markdown_name = markdown_name.replace(":", "")
+    jpg_name = markdown_name
     markdown_name += '.markdown'
-    return markdown_name, post_title
+    return markdown_name, post_title, jpg_name
 
-img_name = f"{date}.jpg"
+
+
+
+markdown, post_title, jpg_name = make_title(title_name)
+img_name = f"{jpg_name}.jpg"
 rename_and_move(img_name)
-img_name = f"{date}s.jpg"
-img = Image.open(f"/Users/maomao/Documents/GitHub/maomaocv.github.io/img/{date}.jpg")
+img_name = f"{jpg_name}_squared.jpg"
+img = Image.open(f"/Users/maomao/Documents/GitHub/maomaocv.github.io/img/{jpg_name}.jpg")
 max_side = max(img.size)
 canvas = Image.new('RGB', (max_side, max_side), 'white')
-
 x_offset = (canvas.width - img.width) // 2
 y_offset = (canvas.height - img.height) // 2
 canvas.paste(img, (x_offset, y_offset))
-canvas.save(f"/Users/maomao/Documents/GitHub/maomaocv.github.io/img/{date}s.jpg")
-markdown, post_title = make_title(title_name)
-print("image saved as", date, "s.jpg")
+canvas.save(f"/Users/maomao/Documents/GitHub/maomaocv.github.io/img/{jpg_name}_squared.jpg")
+print("image saved as", img_name)
 markdown_name = f"{date}-{markdown}"
 print(markdown_name)
 auto_post(date, post_title, title_name, markdown_name, img_name, URL)
