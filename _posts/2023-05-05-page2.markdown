@@ -3,7 +3,7 @@ layout: post
 title:  Page 2
 date:   2023-05-05 00:00:00+0800
 image:  0020.jpg
-tags:   [Page Redirect]
+tags:   [Tag Cloud]
 ---
 [Page 1](https://maomaocv.github.io)
 

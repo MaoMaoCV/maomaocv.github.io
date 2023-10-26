@@ -3,7 +3,7 @@ layout: post
 title:  NExT-GPT
 date:   2023-09-13 16:03:30 +0800
 image:  2023-09-13s.jpg
-tags:   [Demo, NExt-GPT, Muti-Modal, LLM, AI, arXiv]
+tags:   [Demo, NExT-GPT, Muti-Modal, LLM, AI, arXiv]
 ---
 
 arXiv V1: [NExT-GPT: Any-to-Any Multimodal LLM](https://arxiv.org/pdf/2309.05519.pdf)

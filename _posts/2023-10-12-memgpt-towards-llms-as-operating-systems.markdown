@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Memgpt - Towards Llms as Operating Systems
+title:  MemGPT - Towards LLMs as Operating Systems
 date:   2023-10-12 16:03:30 +0800
 image:  2023-10-12-memgpt-towards-llms-as-operating-systems_squared.jpg
 tags:   [Agent, AI, arXiv, ~0.0k Citations]
