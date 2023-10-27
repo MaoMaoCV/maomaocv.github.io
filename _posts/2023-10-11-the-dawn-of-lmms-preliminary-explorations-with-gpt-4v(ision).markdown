@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Dawn of LMMs - Preliminary Explorations with GPT-4v(ision)
+title:  The Dawn of LMMs - Preliminary Explorations with GPT-4V(ision)
 date:   2023-10-11 16:03:30 +0800
 image:  2023-10-11s.jpg
 tags:   [Transformer, AI, arXiv, ~0.0k Citations]
