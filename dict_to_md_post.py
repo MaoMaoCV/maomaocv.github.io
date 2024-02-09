@@ -33,7 +33,7 @@ def post_name(time):
     print(title, "\n")
     # print("markdown template:\n")
     print("---\nlayout: post\ntitle:  ", title_input, "\ndate:   ", time[:19], tz)
-    image = "0000.jpg"
+    image = "00000.jpg"
     tags = "[Life]"
     print("image:  ", image, "\ntags:   ", tags, "\n---")
 
@@ -65,7 +65,7 @@ def recent_post(time):
     print(title, "\n")
     # print("markdown template:\n")
     print("---\nlayout: post\ntitle:  ", title_input, "\ndate:   ", time[:19], tz)
-    image = "0000.jpg"
+    image = "00000.jpg"
     # tags = "[Commonplace, Life]"
     print("image:  ", image, "\ntags:   ", tags, "\n---")
 
@@ -80,7 +80,7 @@ def recent_post(time):
     fp.write(content)
     fp.close()
 
-recent_post(get_time())
+post_name(get_time())
 
 # path = '/Users/maomao/Documents/GitHub/maomaocv.github.io/_posts/'
 # filename = input("Input file name (without extension):\n")
