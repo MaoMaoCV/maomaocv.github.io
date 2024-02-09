@@ -79,8 +79,8 @@ def recent_post(time):
     fp = open(path, 'w')
     fp.write(content)
     fp.close()
-
-post_name(get_time())
+recent_post(get_time())
+# post_name(get_time())
 
 # path = '/Users/maomao/Documents/GitHub/maomaocv.github.io/_posts/'
 # filename = input("Input file name (without extension):\n")
