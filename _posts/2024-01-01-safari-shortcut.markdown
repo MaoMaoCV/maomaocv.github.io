@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  ChatGPT Shortcut
+title:  Safari Shortcut
 date:   2024-01-01 13:19:19+0800
 image:  2024-01-01-chatgpt-shortcut.jpg
-tags:   [ChatGPT, OpenAI, Shortcut]
+tags:   [Safari, Apple, Shortcut]
 ---
 # Keyboard Shortcuts
 
