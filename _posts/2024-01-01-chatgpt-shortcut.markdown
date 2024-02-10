@@ -20,3 +20,4 @@ tags:   [ChatGPT, OpenAI, Shortcut]
 | Toggle sidebar       | `⌘` + `Shift` + `S`  |
 | Delete chat          | `⌘` + `Shift` + `⌫`  |
 | Show shortcuts       | `⌘` + `/`          |
+

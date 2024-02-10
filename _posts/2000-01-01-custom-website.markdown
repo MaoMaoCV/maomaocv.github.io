@@ -34,7 +34,7 @@ Considering my project relies on GitHub as a free platform to deploy personal we
 
 ---
 
-### Project Name: Fast Personalized Website Deployment Platform
+## Project Name: Fast Personalized Website Deployment Platform
 
 #### 1. Project Background
 With the advent of the digital era, the online presence of personal brands has become crucial. Although there are various website-building platforms on the market, there is still a portion of the population unable to own personalized websites due to cost or technical barriers. This project aims to provide a low-cost, maintenance-free, and easily customizable website solution by combining the usability of Squarespace with the free domain service of GitHub Pages.
@@ -69,6 +69,45 @@ With the advent of the digital era, the online presence of personal brands has b
 
 ---
 
+When conducting market analysis, it's necessary to consider the size of the target market, customer needs, competitive environment, market trends, potential growth opportunities, and barriers to market entry. Here is the market analysis for the Fast Personalized Website Deployment Platform:
+
+---
+
+## Market Analysis
+
+#### Target Market Definition
+- **Target Customer Group**: Mainly aimed at individual creators, freelancers, small business owners, emerging artists, and non-profit organizations who need to showcase their work or services online but may lack the technical skills or funds to create and maintain a complex website.
+- **Geographic Scope**: Initially focusing on the North American and European markets, where the demand for personal websites is higher, and users generally have a higher payment capability and acceptance of technology.
+
+#### Competitive Analysis
+- **Direct Competitors**: Other website building platforms like Wix, Weebly, and Shopify, which offer site-building tools but usually at a higher cost and with maintenance fees.
+- **Indirect Competitors**: Individual website developers and small web design companies that offer custom services, but at generally higher prices.
+- **Differentiating Factors**: By utilizing automation and the free GitHub Pages domain, this project will offer a more economical and convenient solution.
+
+#### Market Demand Analysis
+- **Demand Drivers**: The demand for showcasing personal brands and achievements online is growing, especially in the context of increasing remote work and digital marketing.
+- **User Pain Points**: The high cost of website construction and maintenance, and the technical barrier to establishing a personalized website.
+
+#### Market Trends
+- **Digitalization Acceleration**: Due to the COVID-19 pandemic, people are increasingly relying on online resources for work and communication, driving the demand for personal websites.
+- **Growth in Self-Service**: Users are seeking more self-service tools to establish and maintain their online presence.
+- **Mobile First**: With the increase in mobile device usage, mobile-optimized website design has become crucial.
+
+#### Growth Opportunities
+- **Market Segmentation**: Offering specialized templates for specific industries, such as personalized solutions for artists, photographers, health and beauty consultants, and other professionals.
+- **Service Expansion**: As the user base grows, consider offering additional services, such as SEO optimization and content management.
+
+#### Market Entry Barriers
+- **Brand Recognition**: Building brand trust and recognition is one of the main challenges faced by startups.
+- **User Habits**: Users may already be accustomed to using existing website platforms, and changing their habits might require time and education.
+- **Technological Adaptability**: Although our service is designed to simplify the process, users may still need some time to adapt to this new method.
+
+---
+
+The purpose of market analysis is to provide information support for other parts of the project, including product development, marketing strategy, and financial planning. Correct market analysis can help determine the feasibility of the project and potential opportunities for success.
+
+---
+
 
 该项目主要包括以下几个方面：
 
@@ -98,7 +137,7 @@ With the advent of the digital era, the online presence of personal brands has b
 
 ---
 
-### 项目名称: 快速个性化网站部署平台
+## 项目名称: 快速个性化网站部署平台
 
 #### 1. 项目背景
 随着数字化时代的到来，个人品牌的在线存在变得至关重要。尽管市场上有多种建站平台，但仍有一部分人群因成本或技术门槛而无法拥有个性化的网站。本项目旨在通过结合Squarespace的易用性和GitHub Pages的免费域名服务，提供一个低成本、无需维护、易于定制的网站解决方案。
@@ -137,7 +176,7 @@ With the advent of the digital era, the online presence of personal brands has b
 
 ---
 
-### 市场分析
+## 市场分析
 
 #### 目标市场界定
 - **目标客户群**: 主要针对个体创作者、自由职业者、小型企业主、新兴艺术家和非营利组织，他们需要在线展示他们的工作或服务，但可能缺乏技术能力或资金来创建和维护一个复杂的网站。
