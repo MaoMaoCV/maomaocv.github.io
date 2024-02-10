@@ -3,7 +3,7 @@ layout: post
 title:  ChatGPT Shortcut
 date:   2024-01-01 13:19:19+0800
 image:  2024-01-01-chatgpt-shortcut.jpg
-tags:   
+tags:   [ChatGPT, OpenAI, Shortcut]
 ---
 # Keyboard Shortcuts
 
