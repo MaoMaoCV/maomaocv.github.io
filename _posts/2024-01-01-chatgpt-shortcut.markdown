@@ -12,7 +12,7 @@ tags:   [ChatGPT, OpenAI, Shortcut]
 
 | Action               | Shortcut         |
 |----------------------|------------------|
-| Open new chat        | `⌘` + `Shift` + `O`  |
+| Open new chat        | `⌘` + `Shift` + `O`(letter)  |
 | Focus chat input     | `⌘` + `Shift` + `Esc`|
 | Copy last code block | `⌘` + `Shift` + `;`  |
 | Copy last response   | `⌘` + `Shift` + `C`  |
