@@ -8,15 +8,15 @@ tags:   [Safari, Apple, Shortcut]
 # Keyboard Shortcuts
 
 ---
+
 ## MacOS
 
-| Action               | Shortcut         |
-|----------------------|------------------|
-| Open new chat        | `⌘` + `Shift` + `O`(letter)  |
-| Focus chat input     | `⌘` + `Shift` + `Esc`|
-| Copy last code block | `⌘` + `Shift` + `;`  |
-| Copy last response   | `⌘` + `Shift` + `C`  |
-| Set custom instructions | `⌘` + `Shift` + `I` |
-| Toggle sidebar       | `⌘` + `Shift` + `S`  |
-| Delete chat          | `⌘` + `Shift` + `⌫`  |
-| Show shortcuts       | `⌘` + `/`          |
+### Gesture
+
+| Action                                   | Shortcut or Gesture        |
+|------------------------------------------|----------------------------|
+| Scroll up, down, left, or right          | `Arrow keys`               |
+| Scroll in larger increments              | `Option` + `Arrow key`     |
+| Scroll down a screen                     | `Page Down` or `Space bar` |
+| Scroll up a screen                       | `Page Up` or `Shift` + `Space bar` |
+| Scroll to the top-left or bottom-left corner of the webpage | `Command` + `Up Arrow` or `Command` + `Down Arrow` |
