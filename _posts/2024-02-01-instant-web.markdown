@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Effortless Web
+title:  Instant Web
 date:   2024-02-01 13:19:19+0800
 image:  00001.jpg
 tags:   
@@ -8,7 +8,7 @@ tags:
 
 ---
 
-Effortless Web: Zero-Maintenance & Cost-Free GitHub Page Deployment
+Instant Web: Zero-Maintenance & Cost-Free GitHub Page Deployment
 
 #### 1. Project Background
 With the advent of the digital era, the online presence of personal brands has become crucial. Although there are various website-building platforms on the market, there is still a portion of the population unable to own personalized websites due to cost or technical barriers. This project aims to provide a low-cost, maintenance-free, and easily customizable website solution by combining the usability of Squarespace with the free domain service of GitHub Pages.
