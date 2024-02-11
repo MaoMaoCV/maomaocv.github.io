@@ -6,31 +6,6 @@ image:  00001.jpg
 tags:   
 ---
 
-This project mainly includes the following aspects:
-
-1. Use Squarespace to build the main website.
-2. Utilize the personalized domain names (*.github.io) that GitHub users can obtain for free to publish personalized websites.
-3. Provide multiple GitHub templates for users to choose and customize.
-4. Use automated Python workflows to generate personalized websites based on user needs and provided materials.
-5. This project has no server and maintenance costs, resulting in low initial costs.
-6. Squarespace membership costs about $30 per month, and the cost of purchasing a domain name is roughly the same.
-7. The services provided may include templates in multiple fields, such as art, design, photography, health, beauty, personal resumes, fashion, professional services, etc.
-8. Consider the sales model, which could be free + pay-later value-added services, or low price + limited after-sales service.
-9. This project is aimed at individual users, not businesses.
-
-The project proposal should include the following parts:
-
-- **Project Overview**: Briefly introduce the project background, objectives, and solutions.
-- **Market Analysis**: Analyze the target user group, competitors, and market demand.
-- **Product Introduction**: Detail the product features, including the Squarespace main website and GitHub personalized websites.
-- **Technical Implementation**: Explain the technology stack, including Squarespace, GitHub, Python automation, etc.
-- **Costs and Pricing**: Detail the cost structure and pricing strategy.
-- **Promotion Strategy**: Describe how to attract users, including social media, content marketing, etc.
-- **Risk Assessment**: Identify potential risks, such as the accessibility of GitHub servers in certain countries.
-- **Financial Forecast**: Provide initial investment, expected revenue, breakeven point, and other financial indicators.
-- **Timeline**: The schedule from the project's initiation to implementation.
-
-Considering my project relies on GitHub as a free platform to deploy personal websites, ensure to consider GitHub's terms of use and policies to avoid future legal issues.
 
 ---
 
@@ -208,3 +183,29 @@ The purpose of market analysis is to provide information support for other parts
 ---
 
 市场分析的目的是为项目的其他部分提供信息支持，包括产品开发、营销策略和财务规划。正确的市场分析可以帮助确定项目的可行性和潜在的成功机会。
+
+This project mainly includes the following aspects:
+
+1. Use Squarespace to build the main website.
+2. Utilize the personalized domain names (*.github.io) that GitHub users can obtain for free to publish personalized websites.
+3. Provide multiple GitHub templates for users to choose and customize.
+4. Use automated Python workflows to generate personalized websites based on user needs and provided materials.
+5. This project has no server and maintenance costs, resulting in low initial costs.
+6. Squarespace membership costs about $30 per month, and the cost of purchasing a domain name is roughly the same.
+7. The services provided may include templates in multiple fields, such as art, design, photography, health, beauty, personal resumes, fashion, professional services, etc.
+8. Consider the sales model, which could be free + pay-later value-added services, or low price + limited after-sales service.
+9. This project is aimed at individual users, not businesses.
+
+The project proposal should include the following parts:
+
+- **Project Overview**: Briefly introduce the project background, objectives, and solutions.
+- **Market Analysis**: Analyze the target user group, competitors, and market demand.
+- **Product Introduction**: Detail the product features, including the Squarespace main website and GitHub personalized websites.
+- **Technical Implementation**: Explain the technology stack, including Squarespace, GitHub, Python automation, etc.
+- **Costs and Pricing**: Detail the cost structure and pricing strategy.
+- **Promotion Strategy**: Describe how to attract users, including social media, content marketing, etc.
+- **Risk Assessment**: Identify potential risks, such as the accessibility of GitHub servers in certain countries.
+- **Financial Forecast**: Provide initial investment, expected revenue, breakeven point, and other financial indicators.
+- **Timeline**: The schedule from the project's initiation to implementation.
+
+Considering my project relies on GitHub as a free platform to deploy personal websites, ensure to consider GitHub's terms of use and policies to avoid future legal issues.
