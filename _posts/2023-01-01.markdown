@@ -1,0 +1,42 @@
+---
+layout: post
+title:  cs585
+date:   2023 16:03:30 +0800
+image:  2023.jpg
+tags:   []
+---
+
+
+|           | 1st Gesture | 2nd Gesture | 3rd Gesture | 4th Gesture |
+|-----------|-------------|-------------|-------------|-------------|
+| Trial 1   | 1           | 2           | 3           | 4           |
+| Trial 2   | 2           | 4           | 3           | 1           |
+| Trial 3   | 1           | 3           | 2           | 4           |
+| Trial 4   | 1           | 2           | 3           | 4           |
+| Trial 5   | 1           | 2           | 3           | 4           |
+| Trial 6   | 4           | 2           | 1           | 3           |
+| Trial 7   | 2           | 4           | 3           | 1           |
+| Trial 8   | 2           | 3           | 4           | 1           |
+| Trial 9   | 1           | 3           | 4           | 2           |
+| Trial 10  | 1           | 2           | 4           | 3           |
+
+This table succinctly represents each trial with gestures in a randomized order, where each row corresponds to a trial and each column to a gesture, labeled appropriately as requested.
+
+```python
+import numpy as np
+import pandas as pd
+
+# Defining the number of gestures and trials
+num_gestures = 4
+num_trials = 10
+
+# Generating 10 trials of the 4 gestures in random order
+trials = [np.random.permutation(np.arange(1, num_gestures + 1)) for _ in range(num_trials)]
+
+# Converting the trials into a matrix form with rows as trials and columns as gestures
+corrected_matrix = np.array(trials)
+
+# Converting the numpy array to a pandas DataFrame for better readability with updated headers
+df_corrected_matrix = pd.DataFrame(corrected_matrix, index=[f'Trial {i+1}' for i in range(num_trials)], columns=[f'{i+1}st Gesture' if i == 0 else f'{i+1}nd Gesture' if i == 1 else f'{i+1}rd Gesture' if i == 2 else f'{i+1}th Gesture' for i in range(num_gestures)])
+df_corrected_matrix
+```
