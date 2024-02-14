@@ -6,6 +6,10 @@ image:  2023.jpg
 tags:   []
 ---
 
+Gesture 1 = open hand 
+Gesture 2 = closed hand
+Gesture 3 = number one
+Gesture 4 = number two
 
 |           | 1st Gesture | 2nd Gesture | 3rd Gesture | 4th Gesture |
 |-----------|-------------|-------------|-------------|-------------|
