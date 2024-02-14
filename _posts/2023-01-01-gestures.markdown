@@ -11,9 +11,6 @@ Gesture 2 = closed hand
 Gesture 3 = number one
 Gesture 4 = number two
 
-<!-- ![]({{site.baseurl}}/img/2023-05-flower-2642.jpg)
-![]({{site.baseurl}}/img/2023-05-flower-2642.jpg)
-![]({{site.baseurl}}/img/2023-05-flower-2642.jpg) -->
 
 |           | 1st Gesture | 2nd Gesture | 3rd Gesture | 4th Gesture |
 |-----------|-------------|-------------|-------------|-------------|
@@ -28,9 +25,13 @@ Gesture 4 = number two
 | Trial 9   | 1           | 3           | 4           | 2           |
 | Trial 10  | 1           | 2           | 4           | 3           |
 
+<!-- ![]({{site.baseurl}}/img/2023-05-flower-2642.jpg)
+![]({{site.baseurl}}/img/2023-05-flower-2642.jpg)
+![]({{site.baseurl}}/img/2023-05-flower-2642.jpg) -->
+
 This table succinctly represents each trial with gestures in a randomized order, where each row corresponds to a trial and each column to a gesture, labeled appropriately as requested.
 
-```python
+```
 import numpy as np
 import pandas as pd
 
