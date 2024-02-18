@@ -1,0 +1,504 @@
+---
+layout: post
+title:  AIGC
+date:   2024-01-01 13:19:19+0800
+image:  2024-01-01-safari-shortcut.jpg
+tags:   [AIGC, text-to-image]
+---
+
+In just over a year, text-to-image AI art generators have gone from closed betas to being [<u>literally</u>](https://www.youtube.com/watch?v=3YNku5FKWjw) [<u>everywhere</u>](https://www.cosmopolitan.com/lifestyle/a40314356/dall-e-2-artificial-intelligence-cover/). What started with [<u>DALL·E 2</u>](https://zapier.com/blog/how-to-use-dall-e-2/) has grown into a huge cultural movement. AI-powered art generators that have been around for years are having a surge in popularity, and new apps with interesting takes are launching every week. It feels like pretty much everyone is generating amazing, hilarious, and downright weird images, just by typing in a prompt. 
+
+If you want to get in on the text-to-image action but aren't sure where to start, this list will help you out. It's a broader list than my picks for the [<u>best AI image generators</u>](https://zapier.com/blog/best-ai-image-generator/) in order to show off all the different angles that folks are taking with AI art generators.
+
+Still, this isn't an exhaustive list of every app that can make AI art. Instead, it shows off the text-to-image AI art generators that worked when I tested them, are accessible through a web app, and seem not to be scams.
+
+The category is changing so fast that by the time you read this, there might be even more great apps available. But for now, it's a pretty good overview of the biggest AI art apps available at the moment. 
+
+## The top AI art generators
+
+## How does AI art work?
+
+The first time you [enter a prompt into an AI art generator](https://zapier.com/blog/ai-art-prompts) and it actually creates something that perfectly matches what you want, it feels like magic. But it turns out AI art generators don't work using magic. They use computers, machine learning, powerful graphics cards, and a whole lot of data to do their thing. 
+
+Let's break it down. 
+
+AI art generators take a text prompt and, as best they can, turn it into a matching image. Since your prompt can be anything, the first thing all these apps have to do is attempt to understand what you're asking. To do this, the AI algorithms are trained on hundreds of thousands, millions, or even [<u>billions</u>](https://laion.ai/blog/laion-5b/) of image-text pairs. This allows them to learn the difference between dogs and cats, Vermeers and Picassos, and everything else. Different art generators have different levels of understanding of complex text, depending on the size of their training database, and some models are trained for specific purposes or only using licensed content, which affects the kinds of things they can generate.
+
+The next step for the AI is to actually render the resulting image. There are two leading kinds of models:
+
+-   **Diffusion models**, like Stable Diffusion, DALL·E 2, Midjourney, and CLIP-Guided Diffusion, which work by starting with a random field of noise, and then editing it in a series of steps to match its understanding of the prompt.
+    
+-   **Generative Adversarial Networks (GANs)**, like VQGAN-CLIP, BigGAN, and StyleGAN, which have been around for a few years longer.
+    
+
+Both kinds of models can produce great, realistic results, though diffusion models are generally better at producing weird or wild images.
+
+![Two renderings of the prompt from AI art generators based on different models](https://images.ctfassets.net/lzny33ho1g45/Htl4MAoa23JAbKtbdE5E2/04b5de45bb70435dfec727d2b8603890/AI_art_generator_models.png?w=1400)
+
+<small>Prompt: A parrot detective wearing a deerstalker hat and smoking a pipe.</small>
+
+While some apps are very open about which models they use, others obscure it. VQGAN-CLIP and Stable Diffusion, for example, are both open source, so there are a large number of apps that use them openly—and lots of others that don't say anything. There are also other apps that use their own data to custom-train various open source models to give better results.
+
+This means that many AI art generators are essentially just different user interface skins for the same art-generating algorithms. From a business point of view, this is somewhat understandable. Still, it's annoying when you're trying to choose which app to use (or write about them). Where possible, I've listed what models each app uses. When it isn't declared, I've speculated, based on my experience with all these different generative AIs.
+
+**How to use AI image generation at work** 
+
+Interested in AI, but not quite sure how you'd use it at work? Here are a few of the ways people are turning to AI image generation in their roles:
+
+-   Generating hero images for blog posts
+    
+-   Creating social media posts
+    
+-   Generating slide decks and storyboards
+    
+-   Creating personalized images for customers
+    
+
+Learn more about [<u>how to use AI image generation at work</u>](https://zapier.com/blog/ai-image-examples-for-business/).
+
+## 29 AI art generators you can use right now
+
+### [<u>DALL·E 2</u>](https://openai.com/product/dall-e-2)
+
+![An image made with DALL·E 2 using the prompt "an impressionist oil painting of a Canadian man riding a moose through a forest of maple trees"](https://images.ctfassets.net/lzny33ho1g45/2udOp4paDgOh5HpqG5JRAQ/0ede84accbd01fe95828f1cbe5c2a748/best-ai-image-generator-image5.png?w=1400)
+
+<small>I made this with DALL·E 2 using the prompt "an impressionist oil painting of a Canadian man riding a moose through a forest of maple trees"</small>
+
+**AI art models:** DALL·E 2
+
+**Platform**: Web
+
+**Pricing**: $15 for 115 credits (1 credit = 1 prompt with 4 options)
+
+DALL·E 2 is the AI art generator that kicked off this whole craze. While it no longer has a free trial, it's still one of the most impressive apps out there. It's simple to use and can produce great results. That's why its API is used by so many of the other apps on this list.
+
+That API also allows you to [<u>use DALL·E as part of your business workflows</u>](https://zapier.com/blog/dall-e-examples), by connecting it to thousands of other apps using Zapier. For example, you can create images based on Slack messages and send them back to Slack (or [do the same in Discord](https://zapier.com/blog/make-ai-image-playground-in-discord/)) or create images for new Airtable records.
+
+### Create images with DALL.E based on Slack messages and send as a channel message
+
+Slack + OpenAI (GPT-3, DALL-E, Whisper)
+
+More details
+
+Activate this Zap to automatically create an image with DALL.E based on new Slack messages. The image it generates will then be sent as a channel message in Slack to effortlessly enhance your team communication.
+
+### Create images with DALL-E for new Airtable records
+
+Airtable + Filter by Zapier + OpenAI (GPT-3, DALL-E, Whisper)
+
+More details
+
+Generate new images for a blog post or social media automatically. With this workflow, OpenAI's DALL-E will create a new image based on the description you add to a new Airtable record, then add the new image back to your Airtable database. Generate image content instantly. Get step-by-step instructions for setting up this Zap here:
+
+Zapier is the leader in workflow automation—integrating with 6,000+ apps from partners like Google, Salesforce, and Microsoft. Use interfaces, data tables, and logic to build secure, automated systems for your business-critical workflows across your organization's technology stack. [<u>Learn more</u>](https://zapier.com/l/contact-sales).
+
+### [<u>Bing Image Creator</u>](https://www.bing.com/create)
+
+**AI art models:** DALL·E 3
+
+**Platform**: Web
+
+**Pricing**: Free
+
+Bing Image Creator is a result of Microsoft's partnership with OpenAI. It uses the latest DALL·E model, DALL·E 3, and it's free (at least for now). The default styles are a little different, so it's well worth a look, even if you've used DALL·E in the past.
+
+### [**<u>DALL·E 3 (ChatGPT)</u>**](https://openai.com/dall-e-3)
+
+![DALL-E 3, our pick for the best digital marketing tools for an easy-to-use AI image generator.](https://images.ctfassets.net/lzny33ho1g45/75DSS8gsgXORvalbs3MCyE/33c5d731f2789ab4a7c58b533ce576f9/image3.png?w=1400)
+
+**AI art models:** DALL·E 3
+
+**Platform**: Web (via ChatGPT)
+
+**Pricing**: $20/month as part of ChatGPT Plus
+
+[<u>DALL·E 3</u>](https://zapier.com/blog/dall-e-3/) is a serious upgrade over DALL·E 2, at least if you have a ChatGPT Plus account. Not only are the results significantly better, but controlling and instructing it through ChatGPT gives you a lot of control.
+
+Instead of entering one prompt and having to accept the results you get, you can ask ChatGPT to make changes, add bits in, or otherwise mix things up. It makes it much simpler to get great images, even if ChatGPT doesn't always perfectly understand your requests.
+
+And when you [<u>connect ChatGPT to Zapier</u>](https://zapier.com/apps/chatgpt/integrations), you can add automation to your AI workflows. Learn more about [<u>how to automate ChatGPT</u>](https://zapier.com/blog/automate-chatgpt/), or get started with one of these templates.
+
+### Start a conversation with ChatGPT when a prompt is posted in a particular Slack channel
+
+Slack + ChatGPT
+
+More details
+
+Ready to bring the power of ChatGPT to your Slack workspace? Use this Zap to create a reply bot that lets you have a conversation with ChatGPT right inside Slack when a prompt is posted in a particular channel. Now, your team can ask questions and get responses without having to leave Slack.
+
+### Create email copy with ChatGPT from new Gmail emails and save as drafts in Gmail
+
+Gmail + ChatGPT
+
+More details
+
+Need help drafting email responses? This integration means that whenever you receive a new customer email, ChatGPT will write a response and save it automatically as a Gmail draft. This Zap lets you send your prospects and customers better-worded, faster email responses, powered by AI.
+
+### [<u>DreamStudio</u>](https://dreamstudio.ai/) (Stable Diffusion)
+
+![DreamStudio by Stable Diffusion, our pick for the best AI image generator for customization and control](https://images.ctfassets.net/lzny33ho1g45/4Az7EJ5gtpVyQYpyk3J7AX/9b3ef44a10127919facd55de528f0589/ai-image-generator-dreamstudio.png?w=1400)
+
+**AI art models:** Stable Diffusion
+
+**Platform**: Web
+
+**Pricing**: Free for 25 credits; $10 for 1,000 credits (enough for ~1,200 images with the default settings)
+
+DreamStudio is the official [<u>Stable Diffusion</u>](https://zapier.com/blog/stable-diffusion-vs-dalle/) web app. It's pretty powerful, so you can set how many steps the AI takes, what random seed it uses, and loads of other customizations. It's also got a free trial, which is nice. 
+
+(You can also check out Stable Diffusion through [<u>ClipDrop</u>](https://clipdrop.co/stable-diffusion), which is free but watermarks your images.)
+
+### [<u>Midjourney</u>](https://www.midjourney.com/)
+
+![Midjourney, our pick for the AI image generator with the best results](https://images.ctfassets.net/lzny33ho1g45/5c2lxK4vhLWzfata4t1eul/3fae9595b81faf91ba3da3b6ce2a00d8/ai-image-generator-midjourney.png?w=1400)
+
+**AI art models:** Midjourney
+
+**Platform**: Discord
+
+**Pricing**: From $10 for 3.3 hours of GPU time per month (enough for ~200 prompts with 4 image options)
+
+While [<u>Midjourney</u>](https://zapier.com/blog/how-to-use-midjourney/) has one of the weirdest user interfaces—you access it through the chat app Discord—it reliably produces some of the best-looking, most realistic results. It's my personal favorite AI art generator. Read the showdown with DALL·E: [Midjourney vs. DALL·E](https://zapier.com/blog/midjourney-vs-dalle/).
+
+### [<u>Canva</u>](https://www.canva.com/ai-image-generator/)
+
+![AI-generated image of a golden sculpture of a rabbit on a pedestal, sitting on its haunches, red background.](https://images.ctfassets.net/lzny33ho1g45/Ym6ikAM3Qtgwn0VA2fvV0/329769222240f483a266e77b5036e07b/image17.jpg?w=1400)
+
+**AI art models:** Stable Diffusion
+
+**Platform**: Web, iOS, Android
+
+**Pricing**: Free; from $12.99/month for Pro with more AI features
+
+[<u>Canva</u>](https://zapier.com/blog/canva-ai/) recently added a text-to-image art generator. It integrates perfectly with the rest of the template-based design app, so you can add AI-generated art to anything from [<u>social media posts</u>](https://zapier.com/blog/free-ai-social-media-post/) to birthday cards. 
+
+### [<u>NightCafe</u>](https://nightcafe.studio/)
+
+![NightCafe, an AI art generator based on a number of different AI art models](https://images.ctfassets.net/lzny33ho1g45/4ecYFSMeEldwrFJA4Mko5g/394f2997dc662b466d4ca12c545bdcfb/ai-art-generators-image6.png?w=1400)
+
+**AI art models:** Stable Diffusion, DALL·E 2, CLIP-Guided Diffusion, VQGAN-CLIP
+
+**Platform**: Web
+
+**Pricing**: From $6/month for 100 credits (enough for ~1,240 images per month)
+
+NightCafe adds extra features like styles to DALL·E 2 and Stable Diffusion, as well as allowing you to use older generative art models. More importantly, NightCafe is a community for AI art enthusiasts that includes challenges, a Discord server, and a gallery.
+
+### [<u>OpenArt</u>](https://openart.ai/create)
+
+**AI art models:** Stable Diffusion, DALL·E 2, and other open source models
+
+**Platform**: Web
+
+**Pricing**: Free for 50 trial credits; from $10/month for 5,000 credits
+
+Like NightCafe, OpenArt adds extra features to Stable Diffusion and DALL·E 2, as well as letting you use additional open source models and have more control over the specifics of the images you generate. OpenArt also has additional options like sketch-to-image and stock art transformer (which modifies stock images to better suit your needs). 
+
+It's nice to use and its free credit allotment is generous, so it's well worth a look.
+
+### [<u>Adobe Firefly</u>](https://firefly.adobe.com/)
+
+![Firefly, an AI art generator from Adobe](https://images.ctfassets.net/lzny33ho1g45/km4V6aaGywuZUR2EKUXrz/a61f81542506fc9b80cf29f687102e7a/image10.png?w=1400)
+
+**AI art models:** Firefly
+
+**Platform**: Web, Adobe Express, Adobe Photoshop, and other Adobe tools
+
+**Pricing**: Free for 25 credits per month; from $5/month for 100 credits per month (and included with various Adobe subscriptions)
+
+Adobe has been an AI company for over a decade, and it shows with its custom AI art generator called [<u>Firefly</u>](https://zapier.com/blog/adobe-firefly/). While you can use it online, it's now being integrated directly into Adobe products like [<u>Express</u>](https://zapier.com/blog/adobe-express-ai/) and Photoshop.
+
+Perhaps Firefly's best feature is that you can use it to create custom text effects using a written prompt. AI art generators often struggle with text, and Firefly is really the only one that can do this right now. 
+
+### [<u>Jasper Art</u>](https://www.jasper.ai/art)
+
+![Jasper Art, an AI art generator by Jasper](https://images.ctfassets.net/lzny33ho1g45/70OCcaFHvLY7KnabOSU8sB/42d5256c3e347b3079cad0c5b0475783/image4.png?w=1400)
+
+**AI art models:** Doesn't say, but appears to be based on Stable Diffusion
+
+**Platform**: Web
+
+**Pricing**: From $39/month for unlimited images
+
+[<u>Jasper</u>](https://zapier.com/blog/jasper-ai) is better known for being one of the [<u>best AI writing generators</u>](https://zapier.com/blog/best-ai-writing-generator/), but it also has a decent art generator as well. It's more expensive than a lot of the other apps on this list, but if you already use Jasper, it's worth a look. 
+
+Other AI writing tools, like [<u>Writesonic</u>](https://zapier.com/blog/writesonic-tips/) and Rytr, also offer AI-generated art, but Jasper's is different in that it's more of a standalone tool. 
+
+### [<u>Prodia</u>](https://app.prodia.com/)
+
+**AI art models:** Stable Diffusion and other open source models
+
+**Platform**: Web
+
+**Pricing**: Free for unlimited images one at a time; from $4.99 for faster images two at a time
+
+Another Stable Diffusion-based art generator, Prodia stands out by letting you try all its models without having to sign up for an account. Prodia also [connects with Zapier](https://zapier.com/apps/prodia/integrations), so you can automatically create an image on Prodia based on triggers in your other apps.
+
+### [<u>Leap AI</u>](https://www.tryleap.ai/)
+
+![Winston in a colorful suit in pop art style](https://images.ctfassets.net/lzny33ho1g45/7gFNdk9ec1tyveIwGK33ut/d39623783e4784bdefe0e7437f086b42/leap-ai-image6.png?w=1400)
+
+**AI art models:** Stable Diffusion and other open source models
+
+**Platform**: Web
+
+**Pricing**: Free for 100 images and 1 model; then from $9/month for 250 images and 1 model
+
+Leap AI is a great option if you want to train your own AI art models. While a lot of its features are aimed at developers, it's easy enough to use that [<u>anyone can train their own AI</u>](https://zapier.com/blog/leap-ai-train-model/). Plus, [<u>Leap AI integrates with Zapier</u>](https://zapier.com/apps/leap-ai/integrations), so you can do things like generate images based on new Discord messages or Google Sheets rows.
+
+### Generate images with Leap AI from new Discord channel messages
+
+Discord + Delay by Zapier + Leap AI
+
+More details
+
+This Zapier template automatically generates an image with Leap AI based on the text of a new message sent on a specific Discord channel. It then replies to the same channel with the newly generated image.
+
+### Generate images in Leap AI from new Google Sheets rows
+
+Google Sheets + Delay by Zapier + Leap AI
+
+More details
+
+This template generates an image with Leap AI when a new row is added to a Google Sheets spreadsheet. Then, it waits 1 minute for the image to complete generating, retrieves the image URL, and then adds the URL to the Google Sheet.
+
+### [<u>Craiyon</u>](https://www.craiyon.com/)
+
+![Craiyon, an AI art generator based on the original DALL-E model](https://images.ctfassets.net/lzny33ho1g45/3nwZoWdDFxBSe0TdCpY5eI/b787644ef48b20926c8a71ac19fc2eda/ai-art-generators-image2.png?w=1400)
+
+**AI art models:** Based on original DALL·E model (Not DALL·E 2)
+
+**Platform**: Web
+
+**Pricing**: Free; from $6/month for faster images and no watermark
+
+Craiyon (previously DALL·E Mini) is based on the original DALL·E model. It's significantly more basic than the latest art generators, but it's free and fun to play around with. 
+
+### [<u>getimg.ai</u>](https://getimg.ai/)
+
+**AI art models:** Stable Diffusion and other open source models
+
+**Platform**: Web
+
+**Pricing**: Free for 100 images per month; from $12/month for the Basic plan, with 3,000 images/month and the ability to train your own models
+
+getting.ai is an AI art generator app with 20 open source models, including Stable Diffusion and models built from it, like OpenJourney. The biggest feature, though, is that with a paid plan, you can train your own models.
+
+### [<u>Shutterstock AI Image Generator</u>](https://www.shutterstock.com/ai-image-generator)
+
+**AI art models:** DALL·E 2
+
+**Platform**: Web
+
+**Pricing**: Free to generate images; from $19/image to download
+
+Stock image company Shutterstock obviously recognizes the existential threat that generative AI poses to its business—so instead of fighting, it's partnered with OpenAI. The Shutterstock AI Image Generator is powered by DALL·E 2, and while it's free to generate images, downloading them uses Shutterstock credits. If you have a Shutterstock plan, you should give it a try. Otherwise, it's a very expensive way to use an AI art generator. 
+
+### [<u>Generative AI by Getty Images</u>](https://www.gettyimages.com/ai/generation/create)
+
+![Generative AI by Getty Images, our pick for the best AI image generator for commercially safe images](https://images.ctfassets.net/lzny33ho1g45/7c3OAOL5z26Tt45bzCynw4/a15d924d81671b1e466b416a67a60bf4/image8.png?w=1400)
+
+**AI art models:** Custom model developed with NVIDIA
+
+**Platform**: Web
+
+**Pricing**: Custom
+
+Like Shutterstock, Getty Images has developed an AI art generator. [<u>Generative AI by Getty Images</u>](https://zapier.com/blog/getty-images-ai-generator) is trained on Getty's collection of stock images. This makes it good for generating weirdly specific stock photos, but not as competent or creative at other things. 
+
+Best of all, though, Getty claims that its model is free from intellectual property issues, so you're indemnified against any legal claims resulting from using the images you make with its tool. If your company has a legal department, it might be that AI art generator you need. 
+
+### [<u>Deep Dream Generator</u>](https://deepdreamgenerator.com/)
+
+**AI art models:** Custom-trained models
+
+**Platform**: Web
+
+**Pricing**: Free for 20 images with default settings; from $19/month for the Advanced plan, which allows for hundreds of images per month
+
+Deep Dream Generator is one of the oldest AI art generators online. It was originally designed to use Google's [<u>DeepDream algorithm</u>](https://en.wikipedia.org/wiki/DeepDream) but has added text-to-image algorithms that appear to be based on Stable Diffusion.
+
+### [<u>Artbreeder</u>](https://www.artbreeder.com/)
+
+**AI art models:** BigGAN and StyleGAN
+
+**Platform**: Web
+
+**Pricing**: Free for 3 credits per month and most features; from $8.99/month for 100 credits per month, which allow you to use more powerful features more often
+
+Artbreeder (formerly Ganbreeder) launched in 2018 as a platform for experimenting with generative AIs. It's still loose, experimental, and super art-focused. Its three main tools—Mixer, Collager, and Splicer—allow you to combine aspects of multiple images to create something unique. 
+
+### [<u>Stablecog</u>](https://stablecog.com/)
+
+**AI art models:** Stable Diffusion and other open source models
+
+**Platform**: Web
+
+**Pricing**: Free for 100 images; from $10/month for the Starter plan with 1,750 images per month
+
+Stablecog is another AI art generator based on Stable Diffusion and other similar models. It's got a nice, easy-to-use web app and, perhaps best of all, a nice, easy-to-understand pricing structure. 
+
+### [<u>DeepAI</u>](https://deepai.org/)
+
+**AI art models:** Custom models
+
+**Platform**: Web
+
+**Pricing**: Free; from $5/month for 500 images
+
+DeepAI is mostly an AI API for developers, but it has a free text-to-image art generator on its website to showcase what it does. You can also sign up for a paid plan, which gives you access to more styles and allows you to use the API.
+
+### [<u>StarryAI</u>](https://starryai.com/)
+
+**AI art models:** VQGAN-CLIP and CLIP-Guided Diffusion
+
+**Platform**: Web, iOS, Android
+
+**Pricing**: Free for 5 credits/day; from $11.99/month for 50 credits/month
+
+StarryAI is another art generator that uses the older VQGAN-CLIP and CLIP-Guided Diffusion models. It's free for five prompts and twenty images per day, so it's one of the best free ways to try out generative models. There are also mobile apps, which is nice.
+
+### [<u>Fotor</u>](https://www.fotor.com/images/create)
+
+**AI art models:** Doesn't say, but probably based on Stable Diffusion 
+
+**Platform**: Web
+
+**Pricing**: Free for 3 images; from $20 for 200 credits
+
+Fotor is a popular online image editing app, and it's recently added a text-to-image art generator that integrates with its editor. 
+
+### [<u>Vance AI Art Generator</u>](https://vanceai.com/image-generator/)
+
+**AI art models:** Doesn't say, but probably based on Stable Diffusion 
+
+**Platform**: Web
+
+**Pricing**: Free for 3 images/month; from $5 for 100 credits
+
+Vance AI offers a collection of AI tools, and it's recently added a text-to-image art generator. It's relatively limited, but its tools all use the same credit system. So, if you also want an image enhancer, upscaler, and background remover, it's worth checking out.
+
+### [<u>Runway</u>](https://runwayml.com/)
+
+**AI art models:** Appears to be Stable Diffusion, but you can train your own
+
+**Platform**: Web
+
+**Pricing**: Free trial; from $15/editor/month for the Standard plan, with 625 credits per month
+
+Runway is a suite of art-generating tools for businesses. In addition to features like multiple seats and shared assets, you can train your own custom models. 
+
+### [<u>WOMBO Dream</u>](https://dream.ai/)
+
+**AI art models:** Doesn't say, but probably VQGAN-CLIP-based
+
+**Platform**: Web, iOS, Android, Discord
+
+**Pricing**: Free; from $9.99/month for premium features like making multiple outputs from one prompt
+
+Dream by WOMBO is a freemium art generator with a large number of styles. Although it doesn't say explicitly, it likely uses the older VQGAN-CLIP-based models to generate its images.
+
+### [<u>Picsart</u>](https://picsart.com/ai-image-generator)
+
+**AI art models:** Doesn't say, but probably Stable Diffusion-based
+
+**Platform**: Web, iOS
+
+**Pricing**: Free; from $13/month for no watermarks and premium features. 
+
+Picsart is another online image editing app. The AI art generator integrates with the rest of the editor, so you can combine AI-generated elements with text, stickers, and other images. Although it's free to use, you have to pay to download images without a watermark. 
+
+### [<u>CF Spark Art</u>](https://www.creativefabrica.com/spark/)
+
+**AI art models:** Doesn't say, but probably VQGAN-CLIP-based 
+
+**Platform**: Web
+
+**Pricing**: Free; from $9/month for faster generating and private downloads
+
+Creative Fabrica is a digital assets marketplace that's recently added an art generator. It's free to use, but its best feature is that you're able to browse hundreds of other AI creations. 
+
+### [<u>Pixray</u>](https://replicate.com/pixray/text2image)
+
+![Pixray, an AI art generator using VQGAN- and CLIP-based models](https://images.ctfassets.net/lzny33ho1g45/6tQFm00xEtN75tmbbtsZ1z/52b6790bb6bf72cc60424051a2d84421/ai-art-generators-image3.png?w=1400)
+
+**AI art models:** VQGAN-CLIP-based models
+
+**Platform**: Web
+
+**Pricing**: Free
+
+Pixray is an open source art generator that uses VQGAN-CLIP-based models. While there's an API and Python implementation, there's also a free demo on the website. The best thing is that you can play around with all the hidden settings that go into an AI art generator if you want to learn more and see how they work. 
+
+### [<u>Let's Enhance</u>](https://letsenhance.io/)
+
+**AI art models:** Doesn't say, but appears to be Stable Diffusion-based
+
+**Platform**: Web
+
+**Pricing**: Free for 10 credits/month and watermarked images; from $12/month for 100 credits/month
+
+Let's Enhance is an AI-powered image upscaling app that recently added an art generator. It's still in beta, so generating images doesn't cost anything (though saving them costs one credit).
+
+## Other categories of AI art generators
+
+This list is focused on text-to-image art generators, but there are entire other categories of AI art makers out there. Some examples:
+
+-   [<u>Lensa's Magic Avatars</u>](https://land.prisma-ai.com/magic-avatars/) and [<u>MyHeritage's AI Time Machine</u>](https://www.myheritage.com/ai-time-machine) both take a series of selfies and return AI-generated portraits. 
+    
+-   Many text-generating apps, like [<u>Writesonic</u>](https://writesonic.com/) and [<u>Rytr</u>](https://rytr.me/), also include AI art generators, so you can create images to go along with your copy. 
+    
+-   I was only looking at web apps in this list, but there are mobile-only art generators like [<u>ArtOut</u>](https://apps.apple.com/us/app/artout-ai-image-generator/id6450302983), if you just want something on your smartphone.
+    
+-   And then there are others, like [<u>Palette</u>](https://palette.fm/), that can colorize photos. 
+    
+
+And these are just the AI art generators that are available _now_. Other companies are certainly testing their own art generators, and you could always train your own using one of the apps I mentioned that allows for that.
+
+## Make the most of your AI art
+
+You might be generating AI art for fun—in which case, have at it (and check out these [AI photo editors](https://zapier.com/blog/best-ai-photo-editor/) to help make your masterpieces extra pretty). But if you're thinking about using an AI art generator at work, there's plenty you can do with it. Here's some inspiration:
+
+-   [10 AI image generation examples for the workplace](https://zapier.com/blog/ai-image-examples-for-business/)
+    
+-   [6 examples of real businesses using DALL·E for visual content](https://zapier.com/blog/dall-e-examples/)
+    
+-   [How to create logos with AI and Zapier](https://zapier.com/blog/create-logos-with-dall-e-and-zapier/)
+    
+-   [How to generate blog images with AI and Zapier](https://zapier.com/blog/generate-blog-images-with-dall-e-and-zapier/)
+    
+
+You should also take a peek at Zapier's tips on [how to write effective AI art prompts](https://zapier.com/blog/ai-art-prompts/), so you can get the results you want quicker.
+
+## Which AI art generator should you use?
+
+With so many AI art generators to choose from, it can be hard to know where to start. So let me break it down:
+
+-   Midjourney is my favorite, though the free trial is temporarily paused, and using it through Discord is weird. 
+    
+-   DALL·E 2 is great, but it's cheaper to access it through Bing Image Creator. 
+    
+-   Stable Diffusion is used in lots of different apps. The simplest way to access it is through its own app, DreamStudio.
+    
+-   Firefly's text effects are awesome, as is its integration with other Adobe tools.
+    
+-   NightCafe and OpenArt are the best apps if you want to play around with different models, including some of the older GAN models. 
+    
+-   Deep Dream Generator is a great way to see how far art generators have come. 
+    
+-   Artbreeder is perhaps the weirdest art generator among a very weird series of art generators—and totally worth a look. 
+    
+
+Otherwise, just scroll through the list and try whichever ones strike your fancy. You can't go too far wrong.
+
+**Related reading:**
+
+-   [<u>How to automate daily art inspiration with OpenAI's DALL·E and Zapier</u>](https://zapier.com/blog/automate-art-inspiration-with-dall-e/)
+    
+-   [<u>How to build an AI image generation playground in Discord</u>](https://zapier.com/blog/make-ai-image-playground-in-discord/)
+    
+-   [<u>What is AI? A human guide to artificial intelligence</u>](https://zapier.com/blog/what-is-ai/)
+    
+-   [<u>The top AI image editors</u>](https://zapier.com/blog/ai-image-editor/)
+    
+-   [<u>The best photo editors for iPhone and Android</u>](https://zapier.com/blog/best-photo-editing-apps-iphone-android/)
