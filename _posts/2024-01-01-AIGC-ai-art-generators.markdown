@@ -1,10 +1,12 @@
 ---
 layout: post
-title:  AIGC
+title:  AIGC - AI Art Generators
 date:   2024-01-01 13:19:19+0800
 image:  2024-01-01-safari-shortcut.jpg
 tags:   [AIGC, text-to-image]
 ---
+
+# Best AI Art Generators
 
 In just over a year, text-to-image AI art generators have gone from closed betas to being [<u>literally</u>](https://www.youtube.com/watch?v=3YNku5FKWjw) [<u>everywhere</u>](https://www.cosmopolitan.com/lifestyle/a40314356/dall-e-2-artificial-intelligence-cover/). What started with [<u>DALL·E 2</u>](https://zapier.com/blog/how-to-use-dall-e-2/) has grown into a huge cultural movement. AI-powered art generators that have been around for years are having a surge in popularity, and new apps with interesting takes are launching every week. It feels like pretty much everyone is generating amazing, hilarious, and downright weird images, just by typing in a prompt. 
 
