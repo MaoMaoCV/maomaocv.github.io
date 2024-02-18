@@ -11,6 +11,8 @@ Updating a list of AI tools...
 
 * * *
 
+[Luma AI](https://lumalabs.ai/interactive-scenes)
+
 Table of Contents
 -----------------
 *   [AI Video](#AI-Video)
